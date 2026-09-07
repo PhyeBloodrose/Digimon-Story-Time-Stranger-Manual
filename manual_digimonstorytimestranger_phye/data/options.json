@@ -1,0 +1,324 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "main_missions": {
+            "description": [
+                "When enabled, adds a location for each Main Mission."
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Location Options"
+        },
+        "field_guide": {
+            "description": [
+                "When enabled, adds a location for each Field Guide entry.",
+                "NOTE: Due to the nature of the game, you may 'miss' some of these entries if you don't clear them out immediately.",
+                "Especially if you are restricting yourself with other options.",
+                "Be aware before enabling this option that you may have to check some Digimons out of Logic if you rush through certain areas!"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "digifood": {
+            "description": [
+                "When enabled, adds one of each item labeled as 'Food for Digimon' into the Multiworld.",
+                "These Items are considered as Fillers."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "personality_skills": {
+            "description": [
+                "When enabled, adds one of each Personality skill as an item in the Multiworld.",
+                "The intention is that you cannot use these Personality Skills on your Digimon until found.",
+                "They're treated as filler or useful items based on personal taste.",
+                "NOTE: If you have any suggestions to change some of these classifications, drop a comment in the discord thread!"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "synthesis_materials": {
+            "description": [
+                "When enabled, adds one of each item labeled as 'Synthesis material for farm items.' into the Multiworld.",
+                "These Items are considered as Fillers."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "fragmented_memories": {
+            "description": [
+                "When enabled, adds one of each item called 'Fragment Memory: Digimon' into the Multiworld.",
+                "These Items are considered as Useful."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "side_missions": {
+            "description": [
+                "When enabled, adds a location for each Side Mission."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "side_missions_forced": {
+            "description": [
+                "When enabled, Side Missions will be required before you are able to progress through the main story.",
+                "If disabled, will put the side missions at the end before the final boss as that's when you can jump freely through time.",
+                "Does nothing if 'side_missions' is disabled."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Logic Options"
+        },
+        "costumes": {
+            "description": [
+                "When enabled, adds one of each item labeled as 'Costume' into the Multiworld.",
+                "These Items are considered as fillers."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "DLC_preorder": {
+            "description": [
+                "When enabled, will include everything from the 'Pre-Order Bonus Pack'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_costumepack": {
+            "description": [
+                "When enabled, will include everything from the 'Costume Pack'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_costume_publicsafety": {
+            "description": [
+                "When enabled, will include everything from the 'Costume Public Safety Suit & Special Supplies Set'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_costume_digimon": {
+            "description": [
+                "When enabled, will include everything from the 'Costume Digimon Costume Set'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_outerdungeons": {
+            "description": [
+                "When enabled, will include everything from the 'Outer Dungeons the Halls of EXP, GOLD, MATERIALS'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_alternate_dimension": {
+            "description": [
+                "When enabled, will include everything from the 'Episode Pack 1: Alternate Dimension'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_gaku_ran": {
+            "description": [
+                "When enabled, will include everything from the 'Episode Pack 2: Gaku-Ran'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "DLC_anti_paradox": {
+            "description": [
+                "When enabled, will include everything from the 'Episode Pack 3: Anti-Paradox'."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "digi_eggs": {
+            "description": [
+                "When enabled, adds one of each Digi-Egg into the Multiworld.",
+                "These Items are considered as progression."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "spirits": {
+            "description": [
+                "When enabled, adds one of each 'Spirit' into the Multiworld.",
+                "These Items are considered as progression."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "equip_attachments": {
+            "description": [
+                "When enabled, adds one of each item equipment called 'Attachment' into the Multiworld.",
+                "'I' are considered fillers and 'III' is considered as useful.",
+                "'II' is considered either filler or useful depending on if its the max rank of the attachment."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "equip_guards": {
+            "description": [
+                "When enabled, adds one of each item equipment called 'Guard' into the Multiworld.",
+                "These are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "equip_walls": {
+            "description": [
+                "When enabled, adds one of each item equipment called 'Wall' into the Multiworld.",
+                "'I' are considered fillers and both 'II' and unranked are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "equip_attacks": {
+            "description": [
+                "When enabled, adds one of each item equipment called 'Attack' into the Multiworld.",
+                "Thos items that adds status effects to basic attacks",
+                "These are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "equip_special": {
+            "description": [
+                "When enabled, adds one of each item equipment that is rather special and unique into the multiworld.",
+                "Equipments that doesn't quite follow the same naming theme as others such as 'The God of Speed's Boots'",
+                "These are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "equip_usb": {
+            "description": [
+                "When enabled, adds one of each item equipment called 'USB Stick' into the multiworld.",
+                "These are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "digimon_cards": {
+            "description": [
+                "When enabled, adds one of each Digimon Card into the multiworld.",
+                "These are considered as filler items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "farm_items": {
+            "description": [
+                "When enabled, adds one of each item labeled as 'A farm item.' into the Multiworld.",
+                "These are considered as filler items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "farm_training_items": {
+            "description": [
+                "When enabled, adds one of each item labeled as 'A Digifarm training item.' into the Multiworld.",
+                "These are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "trophies": {
+            "description": [
+                "When enabled, adds one of each item called Trophy' into the Multiworld.",
+                "These are considered as filler items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "agent_skills": {
+            "description": [
+                "When enabled, adds one of each Agent Skill as an item in the Multiworld.",
+                "These are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "skill_discs": {
+            "description": [
+                "When enabled, adds one of each Skill Disc into the Multiworld.",
+                "Most commonly known as 'Attachment Skills' while their items are called Skill Discs ingame.",
+                "Rank 'I' are considered fillers. Uniquely Named, Rank 'II' and Rank 'III' are considered as useful items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "time_jump": {
+            "description": [
+                "When enabled, will allow you to time travel freely.",
+                "For those wishing to experience the manual with a finished savefile.",
+                "This manual is not balanced around this option but is there for those who wish to try out the logic behind it."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Logic Options"
+        },
+        "treasure_chests": {
+            "description": [
+                "When enabled, adds a location for each Treasure Chest.",
+                "NOTE: Due to the nature of the game, you may 'miss' some of these treasure chests if you don't open them immediately.",
+                "Be aware before enabling this option that you may have to check some of the treasure chests Out of Logic if you rush through certain areas!"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        }
+    }
+}

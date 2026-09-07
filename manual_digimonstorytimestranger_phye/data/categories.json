@@ -1,0 +1,72 @@
+{
+    "Personality Skills": {
+        "yaml_option": [ "personality_skills" ]
+    },
+    "Field Guide": {
+        "yaml_option": [ "field_guide" ]
+    },
+    "Items - Digimon Food": {
+        "yaml_option": [ "digifood" ]
+    },
+    "Items - Synthesis Materials": {
+        "yaml_option": [ "synthesis_materials" ]
+    },
+    "Items - Fragmented Memories": {
+        "yaml_option": [ "fragmented_memories" ]
+    },
+    "Side Missions": {
+        "yaml_option": [ "side_missions" ]
+    },
+    "Items - Costumes": {
+        "yaml_option": [ "costumes" ]
+    },
+    "Items - Digi-Eggs": {
+        "yaml_option": [ "digi_eggs" ]
+    },
+    "Items - Spirits": {
+        "yaml_option": [ "spirits" ]
+    },
+    "Equipments - Attachments": {
+        "yaml_option": [ "equip_attachments" ]
+    },
+    "Equipments - Guards": {
+        "yaml_option": [ "equip_guards" ]
+    },
+    "Equipments - Walls": {
+        "yaml_option": [ "equip_walls" ]
+    },
+    "Equipments - Status Attacks": {
+        "yaml_option": [ "equip_attacks" ]
+    },
+    "Equipments - Special": {
+        "yaml_option": [ "equip_special" ]
+    },
+    "Equipments - USB Sticks": {
+        "yaml_option": [ "equip_usb" ]
+    },
+    "Digimon Cards": {
+        "yaml_option": [ "digimon_cards" ]
+    },
+    "Items - DigiFarm": {
+        "yaml_option": [ "farm_items" ]
+    },
+    "Items - Trophies": {
+        "yaml_option": [ "farm_items" ]
+    },
+    "Items - DigiFarm Training": {
+        "yaml_option": [ "farm_training_items" ]
+    },
+    "Agent Skills": {
+        "yaml_option": [ "agent_skills" ]
+    },
+    "Main Missions": {
+        "yaml_option": [ "main_missions" ]
+    },
+    "Attachment Skills": {
+        "yaml_option": [ "skill_discs" ]
+    },
+    "chests": {
+        "yaml_option": [ "treasure_chests" ],
+        "hidden": true
+    }
+}

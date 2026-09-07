@@ -1,0 +1,3274 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Main Mission 001 - ADAMAS",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 002 - Signs of an Anomaly",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "BOSS: Defeat Metalgreymon (Blue)",
+            "region": "Forgotten Rails",
+            "category": [
+                "Forgotten Rails"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Forgotten Rails Treasure Chest (SP Capsule I x2)",
+            "region": "Forgotten Rails",
+            "category": [
+                "Forgotten Rails",
+                "chests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Forgotten Rails Treasure Chest (HP Attachment I)",
+            "region": "Forgotten Rails",
+            "category": [
+                "Forgotten Rails",
+                "chests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Forgotten Rails Treasure Chest (Icicle Edge I)",
+            "region": "Forgotten Rails",
+            "category": [
+                "Forgotten Rails",
+                "chests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Forgotten Rails Treasure Chest (HP Capsule)",
+            "region": "Forgotten Rails",
+            "category": [
+                "Forgotten Rails",
+                "chests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 001 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 002 - Choromon",
+            "region": "Choromon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 003 - Dodomon",
+            "region": "Dodomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 004 - Pabumon",
+            "region": "Pabumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 005 - Punimon",
+            "region": "Punimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 006 - Botamon",
+            "region": "Botamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 007 - Poyomon",
+            "region": "Poyomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 008 - Kapurimon",
+            "region": "Kapurimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 009 - Koromon",
+            "region": "Koromon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 010 - Tanemon",
+            "region": "Tanemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 011 - Tsunomon",
+            "region": "Tsunomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 012 - Tsumemon",
+            "region": "Tsumemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 013 - Tokomon",
+            "region": "Tokomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 014 - Dorimon",
+            "region": "Dorimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 015 - Nyaromon",
+            "region": "Nyaromon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 016 - Pagumon",
+            "region": "Pagumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 017 - Yokomon",
+            "region": "Yokomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 018 - Bukamon",
+            "region": "Bukamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 019 - Motimon",
+            "region": "Motimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 020 - Wanyamon",
+            "region": "Wanyamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 021 - Agumon",
+            "region": "Agumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 022 - Kudamon",
+            "region": "Kudamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 023 - Gomamon",
+            "region": "Gomamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 024 - Coronamon",
+            "region": "Coronamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 025 - Zubamon",
+            "region": "Zubamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 026 - Solarmon",
+            "region": "Solarmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 027 - Terriermon",
+            "region": "Terriermon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 028 - Tentomon",
+            "region": "Tentomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 029 - ToyAgumon",
+            "region": "ToyAgumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 030 - Tapirmon",
+            "region": "Tapirmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 031 - Hyokomon",
+            "region": "Hyokomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 032 - Biyomon",
+            "region": "Biyomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 033 - Falcomon",
+            "region": "Falcomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 034 - Salamon",
+            "region": "Salamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 035 - Bearmon",
+            "region": "Bearmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 036 - Penmon",
+            "region": "Penmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 037 - Monodramon",
+            "region": "Monodramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 038 - Ryudamon",
+            "region": "Ryudamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 039 - Lucemon",
+            "region": "Lucemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 040 - Elecmon",
+            "region": "Elecmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 041 - Gaomon",
+            "region": "Gaomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 042 - Crabmon",
+            "region": "Crabmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 043 - Gabumon",
+            "region": "Gabumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 044 - Kamemon",
+            "region": "Kamemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 045 - Kokuwamon",
+            "region": "Kokuwamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 046 - Gotsumon",
+            "region": "Gotsumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 047 - Kotemon",
+            "region": "Kotemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 048 - Shoutmon",
+            "region": "Shoutmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 049 - Dracomon",
+            "region": "Dracomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 050 - Dorumon",
+            "region": "Dorumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 051 - Patamon",
+            "region": "Patamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 052 - Huckmon",
+            "region": "Huckmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 053 - Palmon",
+            "region": "Palmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 054 - Floramon",
+            "region": "Floramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 055 - Muchomon",
+            "region": "Muchomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 056 - Lalamon",
+            "region": "Lalamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 057 - Lunamon",
+            "region": "Lunamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 058 - Renamon",
+            "region": "Renamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 059 - Lopmon",
+            "region": "Lopmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 060 - Impmon",
+            "region": "Impmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 061 - Otamamon",
+            "region": "Otamamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 062 - Gazimon",
+            "region": "Gazimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 063 - Gizamon",
+            "region": "Gizamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 064 - Guilmon",
+            "region": "Guilmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 065 - Goblimon",
+            "region": "Goblimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 066 - Shamamon",
+            "region": "Shamamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 067 - Syakomon",
+            "region": "Syakomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 068 - SnowGoblimon",
+            "region": "SnowGoblimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 069 - Chuumon",
+            "region": "Chuumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 070 - Dracmon",
+            "region": "Dracmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 071 - Hagurumon",
+            "region": "Hagurumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 072 - DemiDevimon",
+            "region": "DemiDevimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 073 - FunBeemon",
+            "region": "FunBeemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 074 - Betamon",
+            "region": "Betamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 075 - Mushroomon",
+            "region": "Mushroomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 076 - Armadillomon",
+            "region": "Armadillomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 077 - Veemon",
+            "region": "Veemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 078 - Hawkmon",
+            "region": "Hawkmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 079 - Wormmon",
+            "region": "Wormmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 080 - Keramon",
+            "region": "Keramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 081 - Aegiomon",
+            "region": "Aegiomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 082 - Ikkakumon",
+            "region": "Ikkakumonn",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 083 - Airdramon",
+            "region": "Airdramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 084 - Angemon",
+            "region": "Angemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 085 - Kabuterimon",
+            "region": "Kabuterimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 086 - Gargomon",
+            "region": "Gargomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 087 - Garurumon",
+            "region": "Garurumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 088 - Ginryumon",
+            "region": "Ginryumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 089 - Grizzlymon",
+            "region": "Grizzlymon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 090 - Greymon",
+            "region": "Greymon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 091 - Coredramon (Blue)",
+            "region": "Coredramon (Blue)",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 092 - GeoGreymon",
+            "region": "GeoGreymon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 093 - Strikedramon",
+            "region": "Strikedramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 094 - Snimon",
+            "region": "Snimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 095 - ZubaEagermon",
+            "region": "ZubaEagermon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 096 - Sorcermon",
+            "region": "Sorcermon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 097 - Gatomon",
+            "region": "Gatomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 098 - Dobermon",
+            "region": "Dobermon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 099 - Birdramon",
+            "region": "Birdramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 100 - Firamon",
+            "region": "Firamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 101 - Veedramon",
+            "region": "Veedramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 102 - Buraimon",
+            "region": "Buraimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 103 - Peckmon",
+            "region": "Peckmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 104 - Mojyamon",
+            "region": "Mojyamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 105 - Frigimon",
+            "region": "Frigimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 106 - Unimon",
+            "region": "Unimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 107 - Raptordramon",
+            "region": "Raptordramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 108 - Deputymon",
+            "region": "Deputymon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 109 - Leomon",
+            "region": "Leomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 110 - Reppamon",
+            "region": "Reppamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 111 - Icemon",
+            "region": "Icemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 112 - Wizardmon",
+            "region": "Wizardmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 113 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 114 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 115 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 116 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 117 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 118 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 119 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 120 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 121 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 122 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 123 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 124 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 125 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 126 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 127 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 128 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 129 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 130 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 131 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 132 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 133 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 134 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 135 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 136 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 137 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 138 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 139 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 140 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 141 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 142 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 143 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 144 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 145 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 146 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 147 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 148 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 149 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 150 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 151 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 152 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 153 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 154 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 155 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 156 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 157 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 158 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 159 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 160 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 161 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 162 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 163 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 164 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 165 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 166 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 167 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 168 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 169 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 170 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 171 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 172 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 173 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 174 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 175 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 176 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 177 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 178 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 179 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 180 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 181 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 182 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 183 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 184 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 185 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 186 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 187 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 188 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 189 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 190 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 191 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 192 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 193 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 194 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 195 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 196 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 197 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 198 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 199 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 200 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 301 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 302 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 303 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 304 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 305 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 306 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 307 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 308 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 309 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 310 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 311 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 312 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 313 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 314 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 315 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 316 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 317 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 318 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 319 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 320 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 321 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 322 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 323 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 324 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 325 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 326 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 327 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 328 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 329 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 330 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 331 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 332 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 333 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 334 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 335 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 336 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 337 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 338 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 339 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 340 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 341 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 342 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 343 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 344 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 345 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 346 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 347 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 348 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 349 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 350 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 351 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 352 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 353 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 354 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 355 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 356 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 357 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 358 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 359 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 360 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 361 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 362 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 363 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 364 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 365 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 366 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 367 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 368 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 369 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 370 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 371 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 372 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 373 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 374 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 375 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 376 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 377 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 378 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 379 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 380 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 381 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 382 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 383 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 384 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 385 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 386 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 387 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 388 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 389 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 390 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 391 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 392 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 393 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 394 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 395 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 396 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 397 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 398 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 399 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 400 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 401 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 402 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 403 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 404 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 405 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 406 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 407 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 408 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 409 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 410 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 411 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 412 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 413 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 414 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 415 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 416 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 417 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 418 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 419 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 420 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 421 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 422 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 423 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 424 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 425 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 426 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 427 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 428 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 429 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 430 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 431 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 432 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 433 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 434 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 435 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 436 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 437 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 438 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 439 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 440 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 441 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 442 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 443 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 444 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 445 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 446 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 447 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 448 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 449 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 450 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 451 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 452 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 453 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 454 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 455 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 456 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 457 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 458 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 459 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 460 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 461 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 462 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 463 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 464 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 465 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 466 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 467 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 468 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 469 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 470 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 471 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 472 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 473 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 474 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 475 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 476 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 477 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 478 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 479 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 480 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 481 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 482 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 483 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 484 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 485 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 486 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 487 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 488 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 489 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 490 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 491 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 492 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 493 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 494 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 495 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 496 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 497 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 498 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 499 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 500 - Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Completed the Field Guide",
+            "region": "General",
+            "victory": true,
+            "category": [
+                "GOAL"
+            ],
+            "requires": ""
+        }
+    ]
+}

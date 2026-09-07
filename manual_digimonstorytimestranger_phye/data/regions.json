@@ -1,0 +1,106 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "General": {
+        "starting": true,
+        "connects_to": [
+            "Main Missions",
+            "Forgotten Rails",
+            "Time Jump"
+        ],
+        "requires": ""
+    },
+    "Main Missions": {
+        "connects_to": [
+            "MM_01"
+        ],
+        "requires": ""
+    },
+    "MM_01": {
+        "connects_to": [
+            "MM_01"
+        ],
+        "requires": ""
+    },
+    "Forgotten Rails": {
+        "connects_to": [
+            "MM_01"
+        ],
+        "requires": ""
+    },
+    "Kuramon": {
+        "connects_to": [
+            "Digivolve_Pagumon",
+            "Digivolve_Tsumemon"
+        ],
+        "requires": ""
+    },
+    "Digivolve_Pagumon": {
+        "connects_to": [
+            "Pagumon"
+        ],
+        "requires": "|Agent Rank:1|"
+    },
+    "Digivolve_Tsumemon": {
+        "connects_to": [
+            "Tsumemon"
+        ],
+        "requires": "|Agent Rank:1|"
+    },
+    "Choromon": {
+        "connects_to": [
+            "Digivolve_Kapurimon"
+        ],
+        "requires": ""
+    },
+    "Digivolve_Kapurimon": {
+        "connects_to": [
+            "Kapurimon"
+        ],
+        "requires": "|Agent Rank:1|"
+    },
+    "Dodomon": {
+        "connects_to": [
+            "Digivolve_Wanyamon",
+            "Digivolve_Dorimon"
+        ],
+        "requires": ""
+    },
+    "Digivolve_Wanyamon": {
+        "connects_to": [
+            "Wanyamon"
+        ],
+        "requires": "|Agent Rank:1|"
+    },
+    "Digivolve_Dorimon": {
+        "connects_to": [
+            "Dorimon"
+        ],
+        "requires": "|Agent Rank:1|"
+    },
+    "World Theater": {
+        "connects_to": [
+            "Time Jump"
+        ],
+        "requires": ""
+    },
+    "Time Jump": {
+        "connects_to": [
+            "Higashi-Shinjuku: Back Alley (8 Years Ago)",
+            "Digital World: Central Town (8 Years Ago)",
+            "Digital World: Factorial Town (8 Years Ago)",
+            "Digital World: Abyss Beach (8 Years Ago)",
+            "Digital World: Gear Forest Village (8 Years Ago)",
+            "Digital World: Guardian Palace (8 Years Ago)",
+            "Higashi-Shinjuku: Back Alley (Present Day)",
+            "Rebellion Village (Present Day)",
+            "Digital World: Central Town (Present Day)",
+            "Digital World: Factorial Town (Present Day)",
+            "Digital World: Guardian Palace (Present Day)",
+            "Digital World: Abyss Beach (Present Day)",
+            "Digital World: Gear Forest Village (Present Day)",
+            "Digital World: Dark Crevasse (Present Day)",
+            "Digital World: Cosmic Terminal (Present Day)"
+        ],
+        "requires": "{YamlEnabled(time_jump)}"
+    }
+}
