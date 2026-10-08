@@ -10316,6 +10316,4742 @@
                 "Attachment Skills"
             ],
             "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Adoring",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Devoted",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tolerant",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Overprotective",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Enlightened",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sly",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Astute",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Strategic",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Zealous",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Brave",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Reckless",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Daring",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Opportunistic",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Friendly",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sociable",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Compassionate",
+            "category": [
+                "Personalities"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Rookie Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Champion Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ultimate Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mega Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mega Plus Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Armor Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Hybrid Mod",
+            "category": [
+                "Digimon - Mods"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Data Folder",
+            "category": [
+                "Digimon - Folders"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Free Folder",
+            "category": [
+                "Digimon - Folders"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Unknown Folder",
+            "category": [
+                "Digimon - Folders"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Vaccine Folder",
+            "category": [
+                "Digimon - Folders"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Variable Folder",
+            "category": [
+                "Digimon - Folders"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Virus Folder",
+            "category": [
+                "Digimon - Folders"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Abnormal File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Alien File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Amphibian File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ancient File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Android File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Angel File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aquatic File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aquatic Beast Man File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Armored Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Bird File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beast File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beast Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beast Knight File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beast Man File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bird File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bird Man File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bulb File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Carnivorous Vegetation File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ceratopsian File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cherub File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Composite File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Crustacean File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dark Angel File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dark Beast File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dark Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dark Knight File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Deity File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Demon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Demon God File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dinosaur File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dragon Man File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dragon Warrior File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Earth Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Evil Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Evil King File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Fire File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Galaxy File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ghost File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Giant Bird File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Great Angel File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "High Angel File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Holy Beast File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Holy Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Holy Knight File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ice-Snow File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Insectoid File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Invader File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Larva File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lesser File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Little Devil File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Machine File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Machine Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Magic Warrior File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mammal File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mineral File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mini Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mollusk File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mutant File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mysterious Beast File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mysterious Bird File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mythical Beast File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mythical Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ore File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pixie File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Plesiosaur File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Puppet File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Rare Animal File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Reptile File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sea Animal File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sea Beast File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Seraph File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shining Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sky Dragon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Slime File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Super Angel File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Undead File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Unindentified File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Unique File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Vegetation File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Virtue File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Warrior File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Weapon File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wizard File",
+            "category": [
+                "Digimon - Files"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kuramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Choromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dodomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pabumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Punimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Botamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Poyomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kapurimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Koromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tanemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tsunomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tsumemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tokomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dorimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Nyaromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pagumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Yokomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bukamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Motimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wanyamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Agumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kudamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gomamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Coronamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Zubamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Solarmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Terriermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tentomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ToyAgumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tapirmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Hyokomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Biyomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Falcomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Salamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bearmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Penmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Monodramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ryudamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lucemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Elecmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gaomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Crabmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gabumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kokuwamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gotsumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kotemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shoutmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dracomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dorumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Patamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Huckmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Palmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Floramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Muchomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lalamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lunamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Renamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lopmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Impmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Otamamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gazimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gizamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Guilmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Goblimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shamamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Syakomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SnowGoblimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chuumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dracmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Hagurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "DemiDevimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "FunBeemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Betamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Armadillomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Veemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Hawkmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wormmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Keramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aegiomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ikkakumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Airdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Angemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kabuterimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gargomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Garurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ginryumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Grizzlymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Greymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Coredramon (Blue) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GeoGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Strikedramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Snimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ZubaEagermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sorcermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gatomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dobermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Birdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Firamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Veedramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Buraimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Peckmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mojyamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Frigimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Unimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Raptordramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Deputymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Leomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Reppamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Icemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wizardmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Witchmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gaogamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gawappamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kiwimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kyubimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Clockmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Centarumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sunflowmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Seadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Coelamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shellmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Starmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tankmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MudFrigimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dinohyumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tyrannomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Turuiemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Togemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Drimogemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dorugamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BaoHuckmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Blimpmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Meramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Monochromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lekismon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "IceDevimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wendigomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Woodmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ogremon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Octomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Guardromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ShellNumemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Growlmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kuwagamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gekomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Geremon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Coredramon (Green) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GoldNumemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Golemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cyclonemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sangloupmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sukamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tuskmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Devimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Deltamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dokugumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Nanimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Numemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bakemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Hyogamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Fugamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Flymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "PlatinumSukamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BlackGatomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Vegiemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Minotarumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Musyamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mekanorimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Raremon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Waspmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aquilamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ankylomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ExVeemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Guardromon (Gold) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Stingmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kurisarimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Submarimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shurimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Digmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Nefertimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Flamedramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pegasusmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Halsemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lighdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Agunimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lobomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lanamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BurningGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Calmaramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "KendoGarurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aegiochusmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aegiochusmon Green Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aegiochusmon Dark Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aegiochusmon Blue Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aegiochusmon Holy Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MegaKabuterimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Andromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wingdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "AeroVeedramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ExTyrannomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Angewomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Garudamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GrapLeomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Grademon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GreatGrizzlymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cerberusmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cerberusmon WM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cyberdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "JewelBeemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Zudomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chirinmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Duramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Parrotmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "IceLeomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Hisyaryumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Butenmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Flaremon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Whamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MagnaAngemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mammothmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Monzaemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Crowmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "RizeGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Rapidmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "LoaderLeomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "WereGarurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Scorpiomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Enbarrmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Antylamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Meteormon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "OmniShoutmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kimeramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "CatchMamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Crescemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SuperStarmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SkullBaluchimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SaviorHuckmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sirenmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Taomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Digitamamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SkullMeramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Deramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Triceramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "DoruGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Knightmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Divermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pandamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pumpkinmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BigMamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Piximon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "HippoGryphonmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Brachiomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Volcanomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MasterBlimpmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MachGaogamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MegaSeadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalMamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lilamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lillymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Locomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Astamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Arukenimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Myotismon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Etemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Okuwamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Orochimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Garbagemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gigadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "CannonBeemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Groundramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sharkmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shaujinmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cherrymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SkullGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SkullSatamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SkullSeadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "DarkSuperStarmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dragomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Tankdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ShogunGekomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Datamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Phantomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BlackKingNumemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BlueMeramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Vademon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Matadormon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mummymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mistymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Megadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "WarGrowlmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalTyrannomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lucemon CM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "LadyDevimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Wisemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "WaruSeadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Shakkoumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Silphymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dinobeemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Paildramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Infermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Aldamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beowolfmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Apollomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Alphamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "UlforceVeedramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Varodurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Venusmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "WarGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ouryumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ophanimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ClavisAngemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Craniamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Eaglemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chronomon HM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cherubimon (Black) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Cherubimon (Good) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Goldramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ShineGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Justimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SkullMammothmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SlashAngemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kentaurosmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Slayerdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Seraphimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MegaGargomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Durandamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Neptunemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "HiAndromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BanchoLeomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "HerculesKabuterimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Phoenixmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Magnadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mastemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MarineAngemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Marsmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Jupitermon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ravemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "UltimateBrachiomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Vulcanusmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gankoomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Kuzuhamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GroundLocomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gryphonmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ceresmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ceresmon Medium Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "SaberLeomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Sakuyamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Jesmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "JumboGamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dianamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dynasmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Leopardmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Leopardmon LM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Dorugoramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "PileVolcanomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "PrinceMamemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Plesiomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Boltmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MirageGaogamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalGarurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalSeadramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MedievalGallantmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Rosemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lotosmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "AvengeKidmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ebemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "VenomMyotismon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "AncientWisemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gaiomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ChaosGallantmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chaosdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Callismon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gundramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "KingEtemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GranDracmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chronomon DM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Zanbamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ZombiePlutomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Darkdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "TigerVespamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Titamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "TyrantKabuterimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Creepymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gallantmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bacchusmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Bacchusmon DM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Barbamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Piedmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Puppetmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pharaohmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Pukumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "PlatinumNumemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Plutomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Breakdramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MaloMyotismon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BeelStarmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beelzemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Belphemon SM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MagnaKidmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Minervamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Millenniummon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Machinedramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Megidramon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalEtemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Merukimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Junomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Junomon HM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "RustTyrannomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Leviamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lilithmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "LordKnightmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Imperialdramon DM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Imperialdramon FM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Vikemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Valkyrimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GranKuwagamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Diaboromon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Rapidmon (Armor) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Magnamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "EmperorGreymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MagnaGarurumon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MagnaGarurumon (Detached) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Alphamon Ouryuken Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Craniamon + Enbarrmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Imperialdramon PM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon Zwart Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chaosmon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Chaosmon Valdur Arm Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "GraceNovamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "ShineGreymon BM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Susanomon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Jupitermon WM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Ravemon BM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Examon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MirageGaogamon BM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Rosemon BM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Titamon + SkullBaluchimon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gallantmon CM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Beelzemon BM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Belphemon RM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Mervamon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Lucemon SM Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Armageddemon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Agumon (Bond of Bravery) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Apocalymon Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gabumon (Bond of Friendship) Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "CresGarurumon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_AD"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Parallelmon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_S1"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BlitzGreymon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_AD"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon Alter-B Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_AD"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon Alter-S Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_AD"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon Zwart Defeat Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_AD"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BanchoMamemon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_G-R"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BanchoLillymon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_G-R"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BanchoGolemon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_G-R"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BanchoStingmon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_G-R"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon MM Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_G-R"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "UlforceVeedramon (X Antibody) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_APX"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Magnamon (X Antibody) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_APX"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Jesmon (X Antibody) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_APX"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gallantmon (X Antibody) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_APX"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Omnimon (X Antibody) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_APX"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Agumon (Black) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Gabumon (Black) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Garurumon (Black) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Greymon (Blue) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalGreymon (Blue) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "WereGarurumon (Black) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "BlackWarGreymon Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "MetalGarurumon (Black) Data",
+            "category": [
+                "Digimon - Data",
+                "DLC_PO"
+            ],
+            "progression_skip_balancing": true
+        },
+        {
+            "count": 1,
+            "name": "Terriermon Assistant Data",
+            "category": [
+                "Digimon - Data"
+            ],
+            "progression_skip_balancing": true
         }
     ]
 }

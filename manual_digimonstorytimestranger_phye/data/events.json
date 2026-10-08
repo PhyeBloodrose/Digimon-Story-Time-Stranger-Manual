@@ -1,1 +1,3430 @@
-[]
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Agent Rank 1",
+            "category": [
+                "Agent Ranks"
+            ],
+            "requires": "|Agent Rank:1| AND (|Main Mission X| OR {YamlDisabled(main_missions)} OR {YamlEnabled(time_jump)})"
+        },
+        {
+            "name": "Main Mission X",
+            "region": "Main Mission X",
+            "category": [
+                "Main Missions"
+            ]
+        },
+        {
+            "name": "Kuramon",
+            "region": "Kuramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Choromon",
+            "region": "Choromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dodomon",
+            "region": "Dodomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pabumon",
+            "region": "Pabumon",
+            "category": [
+                "Digimon"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Punimon",
+            "region": "Punimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Botamon",
+            "region": "Botamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Poyomon",
+            "region": "Poyomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kapurimon",
+            "region": "Kapurimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Koromon",
+            "region": "Koromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tanemon",
+            "region": "Tanemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tsunomon",
+            "region": "Tsunomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tsumemon",
+            "region": "Tsumemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tokomon",
+            "region": "Tokomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dorimon",
+            "region": "Dorimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Nyaromon",
+            "region": "Nyaromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pagumon",
+            "region": "Pagumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Yokomon",
+            "region": "Yokomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Bukamon",
+            "region": "Bukamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Motimon",
+            "region": "Motimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Wanyamon",
+            "region": "Wanyamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Agumon",
+            "region": "Agumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kudamon",
+            "region": "Kudamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gomamon",
+            "region": "Gomamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Coronamon",
+            "region": "Coronamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Zubamon",
+            "region": "Zubamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Solarmon",
+            "region": "Solarmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Terriermon",
+            "region": "Terriermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tentomon",
+            "region": "Tentomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ToyAgumon",
+            "region": "ToyAgumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tapirmon",
+            "region": "Tapirmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Hyokomon",
+            "region": "Hyokomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Biyomon",
+            "region": "Biyomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Falcomon",
+            "region": "Falcomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Salamon",
+            "region": "Salamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Bearmon",
+            "region": "Bearmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Penmon",
+            "region": "Penmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Monodramon",
+            "region": "Monodramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ryudamon",
+            "region": "Ryudamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lucemon",
+            "region": "Lucemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Elecmon",
+            "region": "Elecmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gaomon",
+            "region": "Gaomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Crabmon",
+            "region": "Crabmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gabumon",
+            "region": "Gabumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kamemon",
+            "region": "Kamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kokuwamon",
+            "region": "Kokuwamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gotsumon",
+            "region": "Gotsumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kotemon",
+            "region": "Kotemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Shoutmon",
+            "region": "Shoutmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dracomon",
+            "region": "Dracomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dorumon",
+            "region": "Dorumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Patamon",
+            "region": "Patamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Huckmon",
+            "region": "Huckmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Palmon",
+            "region": "Palmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Floramon",
+            "region": "Floramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Muchomon",
+            "region": "Muchomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lalamon",
+            "region": "Lalamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lunamon",
+            "region": "Lunamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Renamon",
+            "region": "Renamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lopmon",
+            "region": "Lopmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Impmon",
+            "region": "Impmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Otamamon",
+            "region": "Otamamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gazimon",
+            "region": "Gazimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gizamon",
+            "region": "Gizamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Guilmon",
+            "region": "Guilmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Goblimon",
+            "region": "Goblimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Shamamon",
+            "region": "Shamamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Syakomon",
+            "region": "Syakomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SnowGoblimon",
+            "region": "SnowGoblimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chuumon",
+            "region": "Chuumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dracmon",
+            "region": "Dracmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Hagurumon",
+            "region": "Hagurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "DemiDevimon",
+            "region": "DemiDevimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "FunBeemon",
+            "region": "FunBeemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Betamon",
+            "region": "Betamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mushroomon",
+            "region": "Mushroomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Armadillomon",
+            "region": "Armadillomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Veemon",
+            "region": "Veemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Hawkmon",
+            "region": "Hawkmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Wormmon",
+            "region": "Wormmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Keramon",
+            "region": "Keramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aegiomon",
+            "region": "Aegiomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ikkakumon",
+            "region": "Ikkakumonn",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Airdramon",
+            "region": "Airdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Angemon",
+            "region": "Angemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kabuterimon",
+            "region": "Kabuterimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gargomon",
+            "region": "Gargomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Garurumon",
+            "region": "Garurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ginryumon",
+            "region": "Ginryumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Grizzlymon",
+            "region": "Grizzlymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Greymon",
+            "region": "Greymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Coredramon (Blue)",
+            "region": "Coredramon (Blue)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GeoGreymon",
+            "region": "GeoGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Strikedramon",
+            "region": "Strikedramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Snimon",
+            "region": "Snimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ZubaEagermon",
+            "region": "ZubaEagermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sorcermon",
+            "region": "Sorcermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gatomon",
+            "region": "Gatomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dobermon",
+            "region": "Dobermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Birdramon",
+            "region": "Birdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Firamon",
+            "region": "Firamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Veedramon",
+            "region": "Veedramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Buraimon",
+            "region": "Buraimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Peckmon",
+            "region": "Peckmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mojyamon",
+            "region": "Mojyamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Frigimon",
+            "region": "Frigimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Unimon",
+            "region": "Unimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Raptordramon",
+            "region": "Raptordramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Deputymon",
+            "region": "Deputymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Leomon",
+            "region": "Leomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Reppamon",
+            "region": "Reppamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Icemon",
+            "region": "Icemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Wizardmon",
+            "region": "Wizardmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Witchmon",
+            "region": "Witchmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gaogamon",
+            "region": "Gaogamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gawappamon",
+            "region": "Gawappamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kiwimon",
+            "region": "Kiwimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kyubimon",
+            "region": "Kyubimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Clockmon",
+            "region": "Clockmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Centarumon",
+            "region": "Centarumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sunflowmon",
+            "region": "Sunflowmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Seadramon",
+            "region": "Seadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Coelamon",
+            "region": "Coelamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Shellmon",
+            "region": "Shellmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Starmon",
+            "region": "Starmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tankmon",
+            "region": "Tankmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MudFrigimon",
+            "region": "MudFrigimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dinohyumon",
+            "region": "Dinohyumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tyrannomon",
+            "region": "Tyrannomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Turuiemon",
+            "region": "Turuiemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Togemon",
+            "region": "Togemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Drimogemon",
+            "region": "Drimogemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dorugamon",
+            "region": "Dorugamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BaoHuckmon",
+            "region": "BaoHuckmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Blimpmon",
+            "region": "Blimpmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Meramon",
+            "region": "Meramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Monochromon",
+            "region": "Monochromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lekismon",
+            "region": "Lekismon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "IceDevimon",
+            "region": "IceDevimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Wendigomon",
+            "region": "Wendigomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Woodmon",
+            "region": "Woodmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ogremon",
+            "region": "Ogremon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Octomon",
+            "region": "Octomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Guardromon",
+            "region": "Guardromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ShellNumemon",
+            "region": "ShellNumemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Growlmon",
+            "region": "Growlmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kuwagamon",
+            "region": "Kuwagamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gekomon",
+            "region": "Gekomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Geremon",
+            "region": "Geremon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Coredramon (Green)",
+            "region": "Coredramon (Green)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GoldNumemon",
+            "region": "GoldNumemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Golemon",
+            "region": "Golemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cyclonemon",
+            "region": "Cyclonemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sangloupmon",
+            "region": "Sangloupmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sukamon",
+            "region": "Sukamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tuskmon",
+            "region": "Tuskmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Devimon",
+            "region": "Devimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Deltamon",
+            "region": "Deltamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dokugumon",
+            "region": "Dokugumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Nanimon",
+            "region": "Nanimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Numemon",
+            "region": "Numemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Bakemon",
+            "region": "Bakemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Hyogamon",
+            "region": "Hyogamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Fugamon",
+            "region": "Fugamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Flymon",
+            "region": "Flymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "PlatinumSukamon",
+            "region": "PlatinumSukamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BlackGatomon",
+            "region": "BlackGatomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Vegiemon",
+            "region": "Vegiemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Minotarumon",
+            "region": "Minotarumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Musyamon",
+            "region": "Musyamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mekanorimon",
+            "region": "Mekanorimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Raremon",
+            "region": "Raremon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Waspmon",
+            "region": "Waspmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aquilamon",
+            "region": "Aquilamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ankylomon",
+            "region": "Ankylomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ExVeemon",
+            "region": "ExVeemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Guardromon (Gold)",
+            "region": "Guardromon (Gold)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Stingmon",
+            "region": "Stingmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kurisarimon",
+            "region": "Kurisarimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Submarimon",
+            "region": "Submarimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Shurimon",
+            "region": "Shurimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Digmon",
+            "region": "Digmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Nefertimon",
+            "region": "Nefertimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Flamedramon",
+            "region": "Flamedramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pegasusmon",
+            "region": "Pegasusmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Halsemon",
+            "region": "Halsemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lighdramon",
+            "region": "Lighdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Agunimon",
+            "region": "Agunimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lobomon",
+            "region": "Lobomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lanamon",
+            "region": "Lanamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BurningGreymon",
+            "region": "BurningGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Calmaramon",
+            "region": "Calmaramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "KendoGarurumon",
+            "region": "KendoGarurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aegiochusmon",
+            "region": "Aegiochusmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aegiochusmon Green",
+            "region": "Aegiochusmon: Green",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aegiochusmon Dark",
+            "region": "Aegiochusmon: Dark",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aegiochusmon Blue",
+            "region": "Aegiochusmon: Blue",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aegiochusmon Holy",
+            "region": "Aegiochusmon: Holy",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MegaKabuterimon",
+            "region": "MegaKabuterimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Andromon",
+            "region": "Andromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Wingdramon",
+            "region": "Wingdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "AeroVeedramon",
+            "region": "AeroVeedramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ExTyrannomon",
+            "region": "ExTyrannomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Angewomon",
+            "region": "Angewomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Garudamon",
+            "region": "Garudamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GrapLeomon",
+            "region": "GrapLeomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Grademon",
+            "region": "Grademon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GreatGrizzlymon",
+            "region": "GreatGrizzlymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cerberusmon",
+            "region": "Cerberusmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cerberusmon WM",
+            "region": "Cerberusmon WM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cyberdramon",
+            "region": "Cyberdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "JewelBeemon",
+            "region": "JewelBeemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Zudomon",
+            "region": "Zudomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chirinmon",
+            "region": "Chirinmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Duramon",
+            "region": "Duramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Parrotmon",
+            "region": "Parrotmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "IceLeomon",
+            "region": "IceLeomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Hisyaryumon",
+            "region": "Hisyaryumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Butenmon",
+            "region": "Butenmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Flaremon",
+            "region": "Flaremon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Whamon",
+            "region": "Whamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MagnaAngemon",
+            "region": "MagnaAngemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mammothmon",
+            "region": "Mammothmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MetalGreymon",
+            "region": "MetalGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Monzaemon",
+            "region": "Monzaemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Crowmon",
+            "region": "Crowmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "RizeGreymon",
+            "region": "RizeGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Rapidmon",
+            "region": "Rapidmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "LoaderLeomon",
+            "region": "LoaderLeomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "WereGarurumon",
+            "region": "WereGarurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Scorpiomon",
+            "region": "Scorpiomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Enbarrmon",
+            "region": "Enbarrmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Antylamon",
+            "region": "Antylamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Meteormon",
+            "region": "Meteormon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "OmniShoutmon",
+            "region": "OmniShoutmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kimeramon",
+            "region": "Kimeramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "CatchMamemon",
+            "region": "CatchMamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Crescemon",
+            "region": "Crescemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SuperStarmon",
+            "region": "SuperStarmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SkullBaluchimon",
+            "region": "SkullBaluchimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SaviorHuckmon",
+            "region": "SaviorHuckmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sirenmon",
+            "region": "Sirenmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Taomon",
+            "region": "Taomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Digitamamon",
+            "region": "Digitamamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SkullMeramon",
+            "region": "SkullMeramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Deramon",
+            "region": "Deramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Triceramon",
+            "region": "Triceramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "DoruGreymon",
+            "region": "DoruGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Knightmon",
+            "region": "Knightmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Divermon",
+            "region": "Divermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pandamon",
+            "region": "Pandamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pumpkinmon",
+            "region": "Pumpkinmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BigMamemon",
+            "region": "BigMamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Piximon",
+            "region": "Piximon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "HippoGryphonmon",
+            "region": "HippoGryphonmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Brachiomon",
+            "region": "Brachiomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Volcanomon",
+            "region": "Volcanomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MasterBlimpmon",
+            "region": "MasterBlimpmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MachGaogamon",
+            "region": "MachGaogamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mamemon",
+            "region": "Mamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MegaSeadramon",
+            "region": "MegaSeadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MetalMamemon",
+            "region": "MetalMamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lilamon",
+            "region": "Lilamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lillymon",
+            "region": "Lillymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Locomon",
+            "region": "Locomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Astamon",
+            "region": "Astamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Arukenimon",
+            "region": "Arukenimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Myotismon",
+            "region": "Myotismon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Etemon",
+            "region": "Etemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Okuwamon",
+            "region": "Okuwamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Orochimon",
+            "region": "Orochimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Garbagemon",
+            "region": "Garbagemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gigadramon",
+            "region": "Gigadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "CannonBeemon",
+            "region": "CannonBeemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Groundramon",
+            "region": "Groundramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sharkmon",
+            "region": "Sharkmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Shaujinmon",
+            "region": "Shaujinmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cherrymon",
+            "region": "Cherrymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SkullGreymon",
+            "region": "SkullGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SkullSatamon",
+            "region": "SkullSatamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SkullSeadramon",
+            "region": "SkullSeadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "DarkSuperStarmon",
+            "region": "DarkSuperStarmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dragomon",
+            "region": "Dragomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Tankdramon",
+            "region": "Tankdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ShogunGekomon",
+            "region": "ShogunGekomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Datamon",
+            "region": "Datamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Phantomon",
+            "region": "Phantomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BlackKingNumemon",
+            "region": "BlackKingNumemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BlueMeramon",
+            "region": "BlueMeramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Vademon",
+            "region": "Vademon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Matadormon",
+            "region": "Matadormon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mummymon",
+            "region": "Mummymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mistymon",
+            "region": "Mistymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Megadramon",
+            "region": "Megadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "WarGrowlmon",
+            "region": "WarGrowlmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MetalTyrannomon",
+            "region": "MetalTyrannomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lucemon CM",
+            "region": "Lucemon CM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "LadyDevimon",
+            "region": "LadyDevimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Wisemon",
+            "region": "Wisemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "WaruSeadramon",
+            "region": "WaruSeadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Shakkoumon",
+            "region": "Shakkoumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Silphymon",
+            "region": "Silphymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dinobeemon",
+            "region": "Dinobeemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Paildramon",
+            "region": "Paildramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Infermon",
+            "region": "Infermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Aldamon",
+            "region": "Aldamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Beowolfmon",
+            "region": "Beowolfmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Apollomon",
+            "region": "Apollomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Alphamon",
+            "region": "Alphamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "UlforceVeedramon",
+            "region": "UlforceVeedramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Varodurumon",
+            "region": "Varodurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Venusmon",
+            "region": "Venusmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "WarGreymon",
+            "region": "WarGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ouryumon",
+            "region": "Ouryumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ophanimon",
+            "region": "Ophanimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ClavisAngemon",
+            "region": "ClavisAngemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Craniamon",
+            "region": "Craniamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Eaglemon",
+            "region": "Eaglemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chronomon HM",
+            "region": "Chronomon HM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cherubimon (Black)",
+            "region": "Cherubimon (Black)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Cherubimon (Good)",
+            "region": "Cherubimon (Good)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Goldramon",
+            "region": "Goldramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ShineGreymon",
+            "region": "ShineGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Justimon",
+            "region": "Justimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SkullMammothmon",
+            "region": "SkullMammothmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SlashAngemon",
+            "region": "SlashAngemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kentaurosmon",
+            "region": "Kentaurosmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Slayerdramon",
+            "region": "Slayerdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Seraphimon",
+            "region": "Seraphimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MegaGargomon",
+            "region": "MegaGargomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Durandamon",
+            "region": "Durandamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Neptunemon",
+            "region": "Neptunemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "HiAndromon",
+            "region": "HiAndromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BanchoLeomon",
+            "region": "BanchoLeomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "HerculesKabuterimon",
+            "region": "HerculesKabuterimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Phoenixmon",
+            "region": "Phoenixmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Magnadramon",
+            "region": "Magnadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mastemon",
+            "region": "Mastemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MarineAngemon",
+            "region": "MarineAngemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Marsmon",
+            "region": "Marsmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Jupitermon",
+            "region": "Jupitermon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ravemon",
+            "region": "Ravemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "UltimateBrachiomon",
+            "region": "UltimateBrachiomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Vulcanusmon",
+            "region": "Vulcanusmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gankoomon",
+            "region": "Gankoomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Kuzuhamon",
+            "region": "Kuzuhamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GroundLocomon",
+            "region": "GroundLocomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gryphonmon",
+            "region": "Gryphonmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ceresmon",
+            "region": "Ceresmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ceresmon Medium",
+            "region": "Ceresmon Medium",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "SaberLeomon",
+            "region": "SaberLeomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Sakuyamon",
+            "region": "Sakuyamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Jesmon",
+            "region": "Jesmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "JumboGamemon",
+            "region": "JumboGamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dianamon",
+            "region": "Dianamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dynasmon",
+            "region": "Dynasmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Leopardmon",
+            "region": "Leopardmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Leopardmon LM",
+            "region": "Leopardmon LM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Dorugoramon",
+            "region": "Dorugoramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "PileVolcanomon",
+            "region": "PileVolcanomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "PrinceMamemon",
+            "region": "PrinceMamemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Plesiomon",
+            "region": "Plesiomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Boltmon",
+            "region": "Boltmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MirageGaogamon",
+            "region": "MirageGaogamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MetalGarurumon",
+            "region": "MetalGarurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MetalSeadramon",
+            "region": "MetalSeadramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MedievalGallantmon",
+            "region": "MedievalGallantmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Rosemon",
+            "region": "Rosemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lotosmon",
+            "region": "Lotosmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "AvengeKidmon",
+            "region": "AvengeKidmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ebemon",
+            "region": "Ebemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "VenomMyotismon",
+            "region": "VenomMyotismon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "AncientWisemon",
+            "region": "AncientWisemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gaiomon",
+            "region": "Gaiomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ChaosGallantmon",
+            "region": "ChaosGallantmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chaosdramon",
+            "region": "Chaosdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Callismon",
+            "region": "Callismon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gundramon",
+            "region": "Gundramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "KingEtemon",
+            "region": "KingEtemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GranDracmon",
+            "region": "GranDracmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chronomon DM",
+            "region": "Chronomon DM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Zanbamon",
+            "region": "Zanbamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ZombiePlutomon",
+            "region": "ZombiePlutomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Darkdramon",
+            "region": "Darkdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "TigerVespamon",
+            "region": "TigerVespamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Titamon",
+            "region": "Titamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "TyrantKabuterimon",
+            "region": "TyrantKabuterimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Creepymon",
+            "region": "Creepymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gallantmon",
+            "region": "Gallantmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Bacchusmon",
+            "region": "Bacchusmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Bacchusmon DM",
+            "region": "Bacchusmon DM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Barbamon",
+            "region": "Barbamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Piedmon",
+            "region": "Piedmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Puppetmon",
+            "region": "Puppetmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pharaohmon",
+            "region": "Pharaohmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Pukumon",
+            "region": "Pukumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "PlatinumNumemon",
+            "region": "PlatinumNumemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Plutomon",
+            "region": "Plutomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Breakdramon",
+            "region": "Breakdramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MaloMyotismon",
+            "region": "MaloMyotismon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "BeelStarmon",
+            "region": "BeelStarmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Beelzemon",
+            "region": "Beelzemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Belphemon SM",
+            "region": "Belphemon SM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MagnaKidmon",
+            "region": "MagnaKidmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Minervamon",
+            "region": "Minervamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Millenniummon",
+            "region": "Millenniummon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Machinedramon",
+            "region": "Machinedramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Megidramon",
+            "region": "Megidramon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MetalEtemon",
+            "region": "MetalEtemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Merukimon",
+            "region": "Merukimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Junomon",
+            "region": "Junomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Junomon HM",
+            "region": "Junomon HM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "RustTyrannomon",
+            "region": "RustTyrannomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Leviamon",
+            "region": "Leviamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lilithmon",
+            "region": "Lilithmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "LordKnightmon",
+            "region": "LordKnightmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Imperialdramon DM",
+            "region": "Imperialdramon DM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Imperialdramon FM",
+            "region": "Imperialdramon FM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Vikemon",
+            "region": "Vikemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Valkyrimon",
+            "region": "Valkyrimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GranKuwagamon",
+            "region": "GranKuwagamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Diaboromon",
+            "region": "Diaboromon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Rapidmon (Armor)",
+            "region": "Rapidmon (Armor)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Magnamon",
+            "region": "Magnamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "EmperorGreymon",
+            "region": "EmperorGreymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MagnaGarurumon",
+            "region": "MagnaGarurumon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MagnaGarurumon (Detached)",
+            "region": "MagnaGarurumon (Detached)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Alphamon Ouryuken",
+            "region": "Alphamon: Ouryuken",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Craniamon + Enbarrmon",
+            "region": "Craniamon + Enbarrmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Imperialdramon PM",
+            "region": "Imperialdramon PM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Omnimon",
+            "region": "Omnimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Omnimon Zwart",
+            "region": "Omnimon Zwart",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chaosmon",
+            "region": "Chaosmon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Chaosmon Valdur Arm",
+            "region": "Chaosmon: Valdur Arm",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "GraceNovamon",
+            "region": "GraceNovamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "ShineGreymon BM",
+            "region": "ShineGreymon BM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Susanomon",
+            "region": "Susanomon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Jupitermon WM",
+            "region": "Jupitermon WM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Ravemon BM",
+            "region": "Ravemon BM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Examon",
+            "region": "Examon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "MirageGaogamon BM",
+            "region": "MirageGaogamon BM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Rosemon BM",
+            "region": "Rosemon BM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Titamon + SkullBaluchimon",
+            "region": "Titamon + SkullBaluchimon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gallantmon CM",
+            "region": "Gallantmon CM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Beelzemon BM",
+            "region": "Beelzemon BM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Belphemon RM",
+            "region": "Belphemon RM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Mervamon",
+            "region": "Mervamon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Lucemon SM",
+            "region": "Lucemon SM",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Armageddemon",
+            "region": "Armageddemon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Agumon (Bond of Bravery)",
+            "region": "Agumon (Bond of Bravery)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Apocalymon",
+            "region": "Apocalymon",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "Gabumon (Bond of Friendship)",
+            "region": "Gabumon (Bond of Friendship)",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "CresGarurumon",
+            "region": "CresGarurumon",
+            "category": [
+                "Digimon",
+                "DLC_AD"
+            ]
+        },
+        {
+            "name": "Parallelmon",
+            "region": "Parallelmon",
+            "category": [
+                "Digimon",
+                "DLC_S1"
+            ]
+        },
+        {
+            "name": "BlitzGreymon",
+            "region": "BlitzGreymon",
+            "category": [
+                "Digimon",
+                "DLC_AD"
+            ]
+        },
+        {
+            "name": "Omnimon Alter-B",
+            "region": "Omnimon Alter-B",
+            "category": [
+                "Digimon",
+                "DLC_AD"
+            ]
+        },
+        {
+            "name": "Omnimon Alter-S",
+            "region": "Omnimon Alter-S",
+            "category": [
+                "Digimon",
+                "DLC_AD"
+            ]
+        },
+        {
+            "name": "Omnimon Zwart Defeat",
+            "region": "Omnimon Zwart Defeat",
+            "category": [
+                "Digimon",
+                "DLC_AD"
+            ]
+        },
+        {
+            "name": "BanchoMamemon",
+            "region": "BanchoMamemon",
+            "category": [
+                "Digimon",
+                "DLC_G-R"
+            ]
+        },
+        {
+            "name": "BanchoLillymon",
+            "region": "BanchoLillymon",
+            "category": [
+                "Digimon",
+                "DLC_G-R"
+            ]
+        },
+        {
+            "name": "BanchoGolemon",
+            "region": "BanchoGolemon",
+            "category": [
+                "Digimon",
+                "DLC_G-R"
+            ]
+        },
+        {
+            "name": "BanchoStingmon",
+            "region": "BanchoStingmon",
+            "category": [
+                "Digimon",
+                "DLC_G-R"
+            ]
+        },
+        {
+            "name": "Omnimon MM",
+            "region": "Omnimon MM",
+            "category": [
+                "Digimon",
+                "DLC_G-R"
+            ]
+        },
+        {
+            "name": "UlforceVeedramon (X Antibody)",
+            "region": "UlforceVeedramon (X Antibody)",
+            "category": [
+                "Digimon",
+                "DLC_APX"
+            ]
+        },
+        {
+            "name": "Magnamon (X Antibody)",
+            "region": "Magnamon (X Antibody)",
+            "category": [
+                "Digimon",
+                "DLC_APX"
+            ]
+        },
+        {
+            "name": "Jesmon (X Antibody)",
+            "region": "Jesmon (X Antibody)",
+            "category": [
+                "Digimon",
+                "DLC_APX"
+            ]
+        },
+        {
+            "name": "Gallantmon (X Antibody)",
+            "region": "Gallantmon (X Antibody)",
+            "category": [
+                "Digimon",
+                "DLC_APX"
+            ]
+        },
+        {
+            "name": "Omnimon (X Antibody)",
+            "region": "Omnimon (X Antibody)",
+            "category": [
+                "Digimon",
+                "DLC_APX"
+            ]
+        },
+        {
+            "name": "Agumon (Black)",
+            "region": "Agumon (Black)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "Gabumon (Black)",
+            "region": "Gabumon (Black)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "Garurumon (Black)",
+            "region": "Garurumon (Black)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "Greymon (Blue)",
+            "region": "Greymon (Blue)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "MetalGreymon (Blue)",
+            "region": "MetalGreymon (Blue)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "WereGarurumon (Black)",
+            "region": "WereGarurumon (Black)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "BlackWarGreymon",
+            "region": "BlackWarGreymon",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "MetalGarurumon (Black)",
+            "region": "MetalGarurumon (Black)",
+            "category": [
+                "Digimon",
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "Terriermon Assistant",
+            "region": "Terriermon Assistant",
+            "category": [
+                "Digimon"
+            ]
+        },
+        {
+            "name": "DLC Pre-Order",
+            "category": [
+                "DLC_PO"
+            ]
+        },
+        {
+            "name": "DLC Alternate Dimension",
+            "category": [
+                "DLC_AD"
+            ]
+        },
+        {
+            "name": "DLC GAKU-RAN",
+            "category": [
+                "DLC_G-R"
+            ]
+        },
+        {
+            "name": "DLC Anti-ParadoX",
+            "category": [
+                "DLC_APX"
+            ]
+        },
+        {
+            "name": "DLC Outer Dungeons",
+            "category": [
+                "DLC_OD"
+            ]
+        },
+        {
+            "name": "DLC Public Safety",
+            "category": [
+                "DLC_C_Public"
+            ]
+        },
+        {
+            "name": "DLC Digimon Costume",
+            "category": [
+                "DLC_C_Digimon"
+            ]
+        },
+        {
+            "name": "DLC Chosen Children",
+            "category": [
+                "DLC_C_Chosen"
+            ]
+        },
+        {
+            "name": "DLC Swimwear",
+            "category": [
+                "DLC_C_Swimwear"
+            ]
+        }
+    ]
+}

@@ -2,7 +2,7 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
-            "name": "Main Mission 001 - ADAMAS",
+            "name": "Main Mission 01 - ADAMAS",
             "region": "MM_01",
             "category": [
                 "Main Missions"
@@ -10,7 +10,327 @@
             "requires": ""
         },
         {
-            "name": "Main Mission 002 - Signs of an Anomaly",
+            "name": "Main Mission 02 - Signs of an Anomaly",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 03 - The View after the End",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 04 - Reunions Bring Trouble",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 05 - The Time Stranger",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 06 - Resonating Thoughts",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 07 - Genius or Crackpot?",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 08 - A Vow Made on a Starry Sky",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 09 - Shinjuku Rhapsody",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 10 - The In-Between",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 11 - Truth Born from an Egg",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 12 - To the Untrodded World",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 13 - Rumble in the Underground",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 14 - Gathering Storm Clouds",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 15 - Incoming Conflict",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 16 - Audience with an Oracle",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 17 - On the Shores of Another World",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 18 - The World Tree's Cry",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 19 - War!",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 20 - The Beginning of the End",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 21 - The Defense of Nishi-Shinjuku",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 22 - Revalation in the White Light",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 23 - Re:The Time Stranger",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 24 - 8 Years",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 25 - On My Life",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 26 - Metamorphosis",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 27 - Red Seas and Regret",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 28 - A Promise on a Scarf",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 29 - Class-S Anomalies",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 30 - Too Late",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 31 - Titans' Grudge",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 32 - The Destruction of All Order",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 33 - The Paradise Colosseum",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 34 - The Violence of Humans",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 35 - Where Did the Ribbon Go?",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 36 - The God of Speed's Wish",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 37 - Throne of the Underworld",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 38 - No Cure for Stupidity",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 39 - Fire and Ice at War",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 40 - The Mad Oracle",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 41 - The Cycle of Time",
+            "region": "MM_01",
+            "category": [
+                "Main Missions"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Main Mission 42 - The Final Battle Over the Natural Order",
             "region": "MM_01",
             "category": [
                 "Main Missions"
@@ -19,14 +339,15 @@
         },
         {
             "name": "BOSS: Defeat Metalgreymon (Blue)",
-            "region": "Forgotten Rails",
+            "region": "Giant Pit",
             "category": [
-                "Forgotten Rails"
+                "Giant Pit",
+                "MainBoss"
             ],
             "requires": ""
         },
         {
-            "name": "Forgotten Rails Treasure Chest (SP Capsule I x2)",
+            "name": "Forgotten Rails Treasure Chest (SP Capsule I)",
             "region": "Forgotten Rails",
             "category": [
                 "Forgotten Rails",
@@ -53,10 +374,28 @@
             "requires": ""
         },
         {
-            "name": "Forgotten Rails Treasure Chest (HP Capsule)",
+            "name": "Forgotten Rails Treasure Chest (HP Capsule I)",
             "region": "Forgotten Rails",
             "category": [
                 "Forgotten Rails",
+                "chests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Tokyo Metropolitan Government Building: Entrance Treasure Chest (HP Capsule I)",
+            "region": "Tokyo Metropolitan Government Building",
+            "category": [
+                "Tokyo Metropolitan Government Building",
+                "chests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Tokyo Metropolitan Government Building: Entrance Treasure Chest (Plant Guard)",
+            "region": "Tokyo Metropolitan Government Building",
+            "category": [
+                "Tokyo Metropolitan Government Building",
                 "chests"
             ],
             "requires": ""
@@ -958,2304 +1297,2936 @@
             "requires": ""
         },
         {
-            "name": "Field Guide 113 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 113 - Witchmon",
+            "region": "Witchmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 114 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 114 - Gaogamon",
+            "region": "Gaogamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 115 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 115 - Gawappamon",
+            "region": "Gawappamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 116 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 116 - Kiwimon",
+            "region": "Kiwimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 117 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 117 - Kyubimon",
+            "region": "Kyubimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 118 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 118 - Clockmon",
+            "region": "Clockmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 119 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 119 - Centarumon",
+            "region": "Centarumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 120 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 120 - Sunflowmon",
+            "region": "Sunflowmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 121 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 121 - Seadramon",
+            "region": "Seadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 122 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 122 - Coelamon",
+            "region": "Coelamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 123 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 123 - Shellmon",
+            "region": "Shellmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 124 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 124 - Starmon",
+            "region": "Starmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 125 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 125 - Tankmon",
+            "region": "Tankmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 126 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 126 - MudFrigimon",
+            "region": "MudFrigimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 127 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 127 - Dinohyumon",
+            "region": "Dinohyumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 128 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 128 - Tyrannomon",
+            "region": "Tyrannomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 129 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 129 - Turuiemon",
+            "region": "Turuiemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 130 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 130 - Togemon",
+            "region": "Togemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 131 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 131 - Drimogemon",
+            "region": "Drimogemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 132 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 132 - Dorugamon",
+            "region": "Dorugamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 133 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 133 - BaoHuckmon",
+            "region": "BaoHuckmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 134 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 134 - Blimpmon",
+            "region": "Blimpmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 135 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 135 - Meramon",
+            "region": "Meramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 136 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 136 - Monochromon",
+            "region": "Monochromon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 137 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 137 - Lekismon",
+            "region": "Lekismon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 138 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 138 - IceDevimon",
+            "region": "IceDevimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 139 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 139 - Wendigomon",
+            "region": "Wendigomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 140 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 140 - Woodmon",
+            "region": "Woodmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 141 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 141 - Ogremon",
+            "region": "Ogremon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 142 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 142 - Octomon",
+            "region": "Octomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 143 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 143 - Guardromon",
+            "region": "Guardromon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 144 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 144 - ShellNumemon",
+            "region": "ShellNumemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 145 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 145 - Growlmon",
+            "region": "Growlmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 146 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 146 - Kuwagamon",
+            "region": "Kuwagamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 147 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 147 - Gekomon",
+            "region": "Gekomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 148 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 148 - Geremon",
+            "region": "Geremon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 149 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 149 - Coredramon (Green)",
+            "region": "Coredramon (Green)",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 150 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 150 - GoldNumemon",
+            "region": "GoldNumemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 151 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 151 - Golemon",
+            "region": "Golemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 152 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 152 - Cyclonemon",
+            "region": "Cyclonemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 153 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 153 - Sangloupmon",
+            "region": "Sangloupmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 154 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 154 - Sukamon",
+            "region": "Sukamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 155 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 155 - Tuskmon",
+            "region": "Tuskmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 156 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 156 - Devimon",
+            "region": "Devimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 157 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 157 - Deltamon",
+            "region": "Deltamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 158 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 158 - Dokugumon",
+            "region": "Dokugumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 159 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 159 - Nanimon",
+            "region": "Nanimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 160 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 160 - Numemon",
+            "region": "Numemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 161 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 161 - Bakemon",
+            "region": "Bakemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 162 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 162 - Hyogamon",
+            "region": "Hyogamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 163 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 163 - Fugamon",
+            "region": "Fugamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 164 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 164 - Flymon",
+            "region": "Flymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 165 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 165 - PlatinumSukamon",
+            "region": "PlatinumSukamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 166 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 166 - BlackGatomon",
+            "region": "BlackGatomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 167 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 167 - Vegiemon",
+            "region": "Vegiemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 168 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 168 - Minotarumon",
+            "region": "Minotarumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 169 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 169 - Musyamon",
+            "region": "Musyamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 170 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 170 - Mekanorimon",
+            "region": "Mekanorimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 171 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 171 - Raremon",
+            "region": "Raremon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 172 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 172 - Waspmon",
+            "region": "Waspmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 173 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 173 - Aquilamon",
+            "region": "Aquilamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 174 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 174 - Ankylomon",
+            "region": "Ankylomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 175 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 175 - ExVeemon",
+            "region": "ExVeemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 176 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 176 - Guardromon (Gold)",
+            "region": "Guardromon (Gold)",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 177 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 177 - Stingmon",
+            "region": "Stingmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 178 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 178 - Kurisarimon",
+            "region": "Kurisarimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 179 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 179 - Submarimon",
+            "region": "Submarimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 180 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 180 - Shurimon",
+            "region": "Shurimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 181 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 181 - Digmon",
+            "region": "Digmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 182 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 182 - Nefertimon",
+            "region": "Nefertimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 183 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 183 - Flamedramon",
+            "region": "Flamedramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 184 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 184 - Pegasusmon",
+            "region": "Pegasusmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 185 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 185 - Halsemon",
+            "region": "Halsemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 186 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 186 - Lighdramon",
+            "region": "Lighdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 187 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 187 - Agunimon",
+            "region": "Agunimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 188 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 188 - Lobomon",
+            "region": "Lobomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 189 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 189 - Lanamon",
+            "region": "Lanamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 190 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 190 - BurningGreymon",
+            "region": "BurningGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 191 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 191 - Calmaramon",
+            "region": "Calmaramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 192 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 192 - KendoGarurumon",
+            "region": "KendoGarurumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 193 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 193 - Aegiochusmon",
+            "region": "Aegiochusmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 194 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 194 - Aegiochusmon: Green",
+            "region": "Aegiochusmon: Green",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 195 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 195 - Aegiochusmon: Dark",
+            "region": "Aegiochusmon: Dark",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 196 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 196 - Aegiochusmon: Blue",
+            "region": "Aegiochusmon: Blue",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 197 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 197 - Aegiochusmon: Holy",
+            "region": "Aegiochusmon: Holy",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 198 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 198 - MegaKabuterimon",
+            "region": "MegaKabuterimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 199 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 199 - Andromon",
+            "region": "Andromon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 200 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 200 - Wingdramon",
+            "region": "Wingdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 301 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 201 - AeroVeedramon",
+            "region": "AeroVeedramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 302 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 202 - ExTyrannomon",
+            "region": "ExTyrannomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 303 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 203 - Angewomon",
+            "region": "Angewomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 304 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 204 - Garudamon",
+            "region": "Garudamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 305 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 205 - GrapLeomon",
+            "region": "GrapLeomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 306 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 206 - Grademon",
+            "region": "Grademon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 307 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 207 - GreatGrizzlymon",
+            "region": "GreatGrizzlymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 308 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 208 - Cerberusmon",
+            "region": "Cerberusmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 309 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 209 - Cerberusmon WM",
+            "region": "Cerberusmon WM",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 310 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 210 - Cyberdramon",
+            "region": "Cyberdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 311 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 211 - JewelBeemon",
+            "region": "JewelBeemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 312 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 212 - Zudomon",
+            "region": "Zudomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 313 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 213 - Chirinmon",
+            "region": "Chirinmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 314 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 214 - Duramon",
+            "region": "Duramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 315 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 215 - Parrotmon",
+            "region": "Parrotmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 316 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 216 - IceLeomon",
+            "region": "IceLeomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 317 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 217 - Hisyaryumon",
+            "region": "Hisyaryumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 318 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 218 - Butenmon",
+            "region": "Butenmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 319 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 219 - Flaremon",
+            "region": "Flaremon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 320 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 220 - Whamon",
+            "region": "Whamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 321 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 221 - MagnaAngemon",
+            "region": "MagnaAngemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 322 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 222 - Mammothmon",
+            "region": "Mammothmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 323 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 223 - MetalGreymon",
+            "region": "MetalGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 324 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 224 - Monzaemon",
+            "region": "Monzaemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 325 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 225 - Crowmon",
+            "region": "Crowmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 326 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 226 - RizeGreymon",
+            "region": "RizeGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 327 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 227 - Rapidmon",
+            "region": "Rapidmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 328 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 228 - LoaderLeomon",
+            "region": "LoaderLeomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 329 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 229 - WereGarurumon",
+            "region": "WereGarurumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 330 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 230 - Scorpiomon",
+            "region": "Scorpiomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 331 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 231 - Enbarrmon",
+            "region": "Enbarrmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 332 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 232 - Antylamon",
+            "region": "Antylamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 333 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 233 - Meteormon",
+            "region": "Meteormon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 334 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 234 - OmniShoutmon",
+            "region": "OmniShoutmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 335 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 235 - Kimeramon",
+            "region": "Kimeramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 336 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 236 - CatchMamemon",
+            "region": "CatchMamemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 337 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 237 - Crescemon",
+            "region": "Crescemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 338 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 238 - SuperStarmon",
+            "region": "SuperStarmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 339 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 239 - SkullBaluchimon",
+            "region": "SkullBaluchimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 340 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 240 - SaviorHuckmon",
+            "region": "SaviorHuckmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 341 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 241 - Sirenmon",
+            "region": "Sirenmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 342 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 242 - Taomon",
+            "region": "Taomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 343 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 243 - Digitamamon",
+            "region": "Digitamamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 344 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 244 - SkullMeramon",
+            "region": "SkullMeramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 345 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 245 - Deramon",
+            "region": "Deramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 346 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 246 - Triceramon",
+            "region": "Triceramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 347 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 247 - DoruGreymon",
+            "region": "DoruGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 348 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 248 - Knightmon",
+            "region": "Knightmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 349 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 249 - Divermon",
+            "region": "Divermon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 350 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 250 - Pandamon",
+            "region": "Pandamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 351 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 251 - Pumpkinmon",
+            "region": "Pumpkinmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 352 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 252 - BigMamemon",
+            "region": "BigMamemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 353 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 253 - Piximon",
+            "region": "Piximon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 354 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 254 - HippoGryphonmon",
+            "region": "HippoGryphonmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 355 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 255 - Brachiomon",
+            "region": "Brachiomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 356 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 256 - Volcanomon",
+            "region": "Volcanomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 357 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 257 - MasterBlimpmon",
+            "region": "MasterBlimpmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 358 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 258 - MachGaogamon",
+            "region": "MachGaogamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 359 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 259 - Mamemon",
+            "region": "Mamemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 360 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 260 - MegaSeadramon",
+            "region": "MegaSeadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 361 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 261 - MetalMamemon",
+            "region": "MetalMamemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 362 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 262 - Lilamon",
+            "region": "Lilamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 363 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 263 - Lillymon",
+            "region": "Lillymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 364 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 264 - Locomon",
+            "region": "Locomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 365 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 265 - Astamon",
+            "region": "Astamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 366 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 266 - Arukenimon",
+            "region": "Arukenimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 367 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 267 - Myotismon",
+            "region": "Myotismon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 368 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 268 - Etemon",
+            "region": "Etemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 369 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 269 - Okuwamon",
+            "region": "Okuwamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 370 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 270 - Orochimon",
+            "region": "Orochimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 371 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 271 - Garbagemon",
+            "region": "Garbagemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 372 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 272 - Gigadramon",
+            "region": "Gigadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 373 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 273 - CannonBeemon",
+            "region": "CannonBeemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 374 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 274 - Groundramon",
+            "region": "Groundramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 375 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 275 - Sharkmon",
+            "region": "Sharkmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 376 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 276 - Shaujinmon",
+            "region": "Shaujinmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 377 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 277 - Cherrymon",
+            "region": "Cherrymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 378 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 278 - SkullGreymon",
+            "region": "SkullGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 379 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 279 - SkullSatamon",
+            "region": "SkullSatamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 380 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 280 - SkullSeadramon",
+            "region": "SkullSeadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 381 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 281 - DarkSuperStarmon",
+            "region": "DarkSuperStarmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 382 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 282 - Dragomon",
+            "region": "Dragomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 383 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 283 - Tankdramon",
+            "region": "Tankdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 384 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 284 - ShogunGekomon",
+            "region": "ShogunGekomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 385 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 285 - Datamon",
+            "region": "Datamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 386 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 286 - Phantomon",
+            "region": "Phantomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 387 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 287 - BlackKingNumemon",
+            "region": "BlackKingNumemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 388 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 288 - BlueMeramon",
+            "region": "BlueMeramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 389 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 289 - Vademon",
+            "region": "Vademon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 390 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 290 - Matadormon",
+            "region": "Matadormon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 391 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 291 - Mummymon",
+            "region": "Mummymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 392 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 292 - Mistymon",
+            "region": "Mistymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 393 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 293 - Megadramon",
+            "region": "Megadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 394 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 294 - WarGrowlmon",
+            "region": "WarGrowlmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 395 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 295 - MetalTyrannomon",
+            "region": "MetalTyrannomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 396 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 296 - Lucemon CM",
+            "region": "Lucemon CM",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 397 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 297 - LadyDevimon",
+            "region": "LadyDevimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 398 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 298 - Wisemon",
+            "region": "Wisemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 399 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 299 - WaruSeadramon",
+            "region": "WaruSeadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 400 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 300 - Shakkoumon",
+            "region": "Shakkoumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 401 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 301 - Silphymon",
+            "region": "Silphymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 402 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 302 - Dinobeemon",
+            "region": "Dinobeemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 403 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 303 - Paildramon",
+            "region": "Paildramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 404 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 304 - Infermon",
+            "region": "Infermon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 405 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 305 - Aldamon",
+            "region": "Aldamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 406 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 306 - Beowolfmon",
+            "region": "Beowolfmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 407 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 307 - Apollomon",
+            "region": "Apollomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 408 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 308 - Alphamon",
+            "region": "Alphamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 409 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 309 - UlforceVeedramon",
+            "region": "UlforceVeedramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 410 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 310 - Varodurumon",
+            "region": "Varodurumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 411 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 311 - Venusmon",
+            "region": "Venusmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 412 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 312 - WarGreymon",
+            "region": "WarGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 413 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 313 - Ouryumon",
+            "region": "Ouryumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 414 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 314 - Ophanimon",
+            "region": "Ophanimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 415 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 315 - ClavisAngemon",
+            "region": "ClavisAngemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 416 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 316 - Craniamon",
+            "region": "Craniamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 417 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 317 - Eaglemon",
+            "region": "Eaglemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 418 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 318 - Chronomon HM",
+            "region": "Chronomon HM",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 419 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 319 - Cherubimon (Black)",
+            "region": "Cherubimon (Black)",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 420 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 320 - Cherubimon (Good)",
+            "region": "Cherubimon (Good)",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 421 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 321 - Goldramon",
+            "region": "Goldramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 422 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 322 - ShineGreymon",
+            "region": "ShineGreymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 423 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 323 - Justimon",
+            "region": "Justimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 424 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 324 - SkullMammothmon",
+            "region": "SkullMammothmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 425 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 325 - SlashAngemon",
+            "region": "SlashAngemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 426 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 326 - Kentaurosmon",
+            "region": "Kentaurosmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 427 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 327 - Slayerdramon",
+            "region": "Slayerdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 428 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 328 - Seraphimon",
+            "region": "Seraphimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 429 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 329 - MegaGargomon",
+            "region": "MegaGargomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 430 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 330 - Durandamon",
+            "region": "Durandamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 431 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 331 - Neptunemon",
+            "region": "Neptunemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 432 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 332 - HiAndromon",
+            "region": "HiAndromon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 433 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 333 - BanchoLeomon",
+            "region": "BanchoLeomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 434 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 334 - HerculesKabuterimon",
+            "region": "HerculesKabuterimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 435 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 335 - Phoenixmon",
+            "region": "Phoenixmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 436 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 336 - Magnadramon",
+            "region": "Magnadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 437 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 337 - Mastemon",
+            "region": "Mastemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 438 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 338 - MarineAngemon",
+            "region": "MarineAngemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 439 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 339 - Marsmon",
+            "region": "Marsmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 440 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 340 - Jupitermon",
+            "region": "Jupitermon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 441 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 341 - Ravemon",
+            "region": "Ravemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 442 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 342 - UltimateBrachiomon",
+            "region": "UltimateBrachiomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 443 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 343 - Vulcanusmon",
+            "region": "Vulcanusmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 444 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 344 - Gankoomon",
+            "region": "Gankoomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 445 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 345 - Kuzuhamon",
+            "region": "Kuzuhamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 446 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 346 - GroundLocomon",
+            "region": "GroundLocomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 447 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 347 - Gryphonmon",
+            "region": "Gryphonmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 448 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 348 - Ceresmon",
+            "region": "Ceresmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 449 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 349 - Ceresmon Medium",
+            "region": "Ceresmon Medium",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 450 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 350 - SaberLeomon",
+            "region": "SaberLeomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 451 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 351 - Sakuyamon",
+            "region": "Sakuyamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 452 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 352 - Jesmon",
+            "region": "Jesmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 453 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 353 - JumboGamemon",
+            "region": "JumboGamemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 454 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 354 - Dianamon",
+            "region": "Dianamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 455 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 355 - Dynasmon",
+            "region": "Dynasmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 456 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 356 - Leopardmon",
+            "region": "Leopardmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 457 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 357 - Leopardmon LM",
+            "region": "Leopardmon LM",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 458 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 358 - Dorugoramon",
+            "region": "Dorugoramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 459 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 359 - PileVolcanomon",
+            "region": "PileVolcanomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 460 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 360 - PrinceMamemon",
+            "region": "PrinceMamemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 461 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 361 - Plesiomon",
+            "region": "Plesiomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 462 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 362 - Boltmon",
+            "region": "Boltmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 463 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 363 - MirageGaogamon",
+            "region": "MirageGaogamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 464 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 364 - MetalGarurumon",
+            "region": "MetalGarurumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 465 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 365 - MetalSeadramon",
+            "region": "MetalSeadramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 466 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 366 - MedievalGallantmon",
+            "region": "MedievalGallantmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 467 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 367 - Rosemon",
+            "region": "Rosemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 468 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 368 - Lotosmon",
+            "region": "Lotosmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 469 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 369 - AvengeKidmon",
+            "region": "AvengeKidmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 470 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 370 - Ebemon",
+            "region": "Ebemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 471 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 371 - VenomMyotismon",
+            "region": "VenomMyotismon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 472 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 372 - AncientWisemon",
+            "region": "AncientWisemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 473 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 373 - Gaiomon",
+            "region": "Gaiomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 474 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 374 - ChaosGallantmon",
+            "region": "ChaosGallantmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 475 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 375 - Chaosdramon",
+            "region": "Chaosdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 476 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 376 - Callismon",
+            "region": "Callismon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 477 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 377 - Gundramon",
+            "region": "Gundramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 478 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 378 - KingEtemon",
+            "region": "KingEtemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 479 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 379 - GranDracmon",
+            "region": "GranDracmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 480 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 380 - Chronomon DM",
+            "region": "Chronomon DM",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 481 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 381 - Zanbamon",
+            "region": "Zanbamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 482 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 382 - ZombiePlutomon",
+            "region": "ZombiePlutomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 483 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 383 - Darkdramon",
+            "region": "Darkdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 484 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 384 - TigerVespamon",
+            "region": "TigerVespamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 485 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 385 - Titamon",
+            "region": "Titamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 486 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 386 - TyrantKabuterimon",
+            "region": "TyrantKabuterimon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 487 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 387 - Creepymon",
+            "region": "Creepymon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 488 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 388 - Gallantmon",
+            "region": "Gallantmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 489 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 389 - Bacchusmon",
+            "region": "Bacchusmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 490 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 390 - Bacchusmon DM",
+            "region": "Bacchusmon DM",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 491 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 391 - Barbamon",
+            "region": "Barbamon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 492 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 392 - Piedmon",
+            "region": "Piedmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 493 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 393 - Puppetmon",
+            "region": "Puppetmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 494 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 394 - Pharaohmon",
+            "region": "Pharaohmon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 495 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 395 - Pukumon",
+            "region": "Pukumon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 496 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 396 - PlatinumNumemon",
+            "region": "PlatinumNumemon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 497 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 397 - Plutomon",
+            "region": "Plutomon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 498 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 398 - Breakdramon",
+            "region": "Breakdramon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 499 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 399 - MaloMyotismon",
+            "region": "MaloMyotismon",
             "category": [
                 "Field Guide"
             ],
             "requires": ""
         },
         {
-            "name": "Field Guide 500 - Kuramon",
-            "region": "Kuramon",
+            "name": "Field Guide 400 - BeelStarmon",
+            "region": "BeelStarmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 401 - Beelzemon",
+            "region": "Beelzemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 402 - Belphemon SM",
+            "region": "Belphemon SM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 403 - MagnaKidmon",
+            "region": "MagnaKidmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 404 - Minervamon",
+            "region": "Minervamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 405 - Millenniummon",
+            "region": "Millenniummon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 406 - Machinedramon",
+            "region": "Machinedramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 407 - Megidramon",
+            "region": "Megidramon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 408 - MetalEtemon",
+            "region": "MetalEtemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 409 - Merukimon",
+            "region": "Merukimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 410 - Junomon",
+            "region": "Junomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 411 - Junomon HM",
+            "region": "Junomon HM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 412 - RustTyrannomon",
+            "region": "RustTyrannomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 413 - Leviamon",
+            "region": "Leviamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 414 - Lilithmon",
+            "region": "Lilithmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 415 - LordKnightmon",
+            "region": "LordKnightmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 416 - Imperialdramon DM",
+            "region": "Imperialdramon DM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 417 - Imperialdramon FM",
+            "region": "Imperialdramon FM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 418 - Vikemon",
+            "region": "Vikemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 419 - Valkyrimon",
+            "region": "Valkyrimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 420 - GranKuwagamon",
+            "region": "GranKuwagamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 421 - Diaboromon",
+            "region": "Diaboromon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 422 - Rapidmon (Armor)",
+            "region": "Rapidmon (Armor)",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 423 - Magnamon",
+            "region": "Magnamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 424 - EmperorGreymon",
+            "region": "EmperorGreymon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 425 - MagnaGarurumon",
+            "region": "MagnaGarurumon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 426 - MagnaGarurumon (Detached)",
+            "region": "MagnaGarurumon (Detached)",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 427 - Alphamon: Ouryuken",
+            "region": "Alphamon: Ouryuken",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 428 - Craniamon + Enbarrmon",
+            "region": "Craniamon + Enbarrmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 429 - Imperialdramon PM",
+            "region": "Imperialdramon PM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 430 - Omnimon",
+            "region": "Omnimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 431 - Omnimon Zwart",
+            "region": "Omnimon Zwart",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 432 - Chaosmon",
+            "region": "Chaosmon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 433 - Chaosmon: Valdur Arm",
+            "region": "Chaosmon: Valdur Arm",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 434 - GraceNovamon",
+            "region": "GraceNovamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 435 - ShineGreymon BM",
+            "region": "ShineGreymon BM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 436 - Susanomon",
+            "region": "Susanomon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 437 - Jupitermon WM",
+            "region": "Jupitermon WM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 438 - Ravemon BM",
+            "region": "Ravemon BM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 439 - Examon",
+            "region": "Examon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 440 - MirageGaogamon BM",
+            "region": "MirageGaogamon BM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 441 - Rosemon BM",
+            "region": "Rosemon BM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 442 - Titamon + SkullBaluchimon",
+            "region": "Titamon + SkullBaluchimon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 443 - Gallantmon CM",
+            "region": "Gallantmon CM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 444 - Beelzemon BM",
+            "region": "Beelzemon BM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 445 - Belphemon RM",
+            "region": "Belphemon RM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 446 - Mervamon",
+            "region": "Mervamon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 447 - Lucemon SM",
+            "region": "Lucemon SM",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 448 - Armageddemon",
+            "region": "Armageddemon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 449 - Agumon (Bond of Bravery)",
+            "region": "Agumon (Bond of Bravery)",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 450 - Apocalymon",
+            "region": "Apocalymon",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 451 - Gabumon (Bond of Friendship)",
+            "region": "Gabumon (Bond of Friendship)",
+            "category": [
+                "Field Guide"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 452 - CresGarurumon",
+            "region": "CresGarurumon",
+            "category": [
+                "Field Guide",
+                "DLC_AD"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 453 - Parallelmon",
+            "region": "Parallelmon",
+            "category": [
+                "Field Guide",
+                "DLC_S1"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 454 - BlitzGreymon",
+            "region": "BlitzGreymon",
+            "category": [
+                "Field Guide",
+                "DLC_AD"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 455 - Omnimon Alter-B",
+            "region": "Omnimon Alter-B",
+            "category": [
+                "Field Guide",
+                "DLC_AD"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 456 - Omnimon Alter-S",
+            "region": "Omnimon Alter-S",
+            "category": [
+                "Field Guide",
+                "DLC_AD"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 457 - Omnimon Zwart Defeat",
+            "region": "Omnimon Zwart Defeat",
+            "category": [
+                "Field Guide",
+                "DLC_AD"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 458 - BanchoMamemon",
+            "region": "BanchoMamemon",
+            "category": [
+                "Field Guide",
+                "DLC_G-R"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 459 - BanchoLillymon",
+            "region": "BanchoLillymon",
+            "category": [
+                "Field Guide",
+                "DLC_G-R"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 460 - BanchoGolemon",
+            "region": "BanchoGolemon",
+            "category": [
+                "Field Guide",
+                "DLC_G-R"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 461 - BanchoStingmon",
+            "region": "BanchoStingmon",
+            "category": [
+                "Field Guide",
+                "DLC_G-R"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 462 - Omnimon MM",
+            "region": "Omnimon MM",
+            "category": [
+                "Field Guide",
+                "DLC_G-R"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 463 - UlforceVeedramon (X Antibody)",
+            "region": "UlforceVeedramon (X Antibody)",
+            "category": [
+                "Field Guide",
+                "DLC_APX"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 464 - Magnamon (X Antibody)",
+            "region": "Magnamon (X Antibody)",
+            "category": [
+                "Field Guide",
+                "DLC_APX"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 465 - Jesmon (X Antibody)",
+            "region": "Jesmon (X Antibody)",
+            "category": [
+                "Field Guide",
+                "DLC_APX"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 466 - Gallantmon (X Antibody)",
+            "region": "Gallantmon (X Antibody)",
+            "category": [
+                "Field Guide",
+                "DLC_APX"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 467 - Omnimon (X Antibody)",
+            "region": "Omnimon (X Antibody)",
+            "category": [
+                "Field Guide",
+                "DLC_APX"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 468 - Agumon (Black)",
+            "region": "Agumon (Black)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 469 - Gabumon (Black)",
+            "region": "Gabumon (Black)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 470 - Garurumon (Black)",
+            "region": "Garurumon (Black)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 471 - Greymon (Blue)",
+            "region": "Greymon (Blue)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 472 - MetalGreymon (Blue)",
+            "region": "MetalGreymon (Blue)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 473 - WereGarurumon (Black)",
+            "region": "WereGarurumon (Black)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 474 - BlackWarGreymon",
+            "region": "BlackWarGreymon",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 475 - MetalGarurumon (Black)",
+            "region": "MetalGarurumon (Black)",
+            "category": [
+                "Field Guide",
+                "DLC_PO"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Field Guide 476 - Terriermon Assistant",
+            "region": "Terriermon Assistant",
             "category": [
                 "Field Guide"
             ],

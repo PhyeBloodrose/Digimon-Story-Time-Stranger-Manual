@@ -24,7 +24,8 @@
     "user": {
         "main_missions": {
             "description": [
-                "When enabled, adds a location for each Main Mission."
+                "When enabled, adds a location for each Main Mission.",
+                "NOTE: This option will automatically be disabled if 'Time Jump' is enabled."
             ],
             "type": "Toggle",
             "default": true,
@@ -33,9 +34,9 @@
         "field_guide": {
             "description": [
                 "When enabled, adds a location for each Field Guide entry.",
-                "NOTE: Due to the nature of the game, you may 'miss' some of these entries if you don't clear them out immediately.",
+                "NOTE: Due to the nature of the game, you may 'miss' some of these entries if you don't clear them out immediately and may have to check them off out of logic.",
                 "Especially if you are restricting yourself with other options.",
-                "Be aware before enabling this option that you may have to check some Digimons out of Logic if you rush through certain areas!"
+                "NOTE: The logic for accessing Digimon is their Base Form found in the wild into Digivolution."
             ],
             "type": "Toggle",
             "default": false,
@@ -81,21 +82,12 @@
         },
         "side_missions": {
             "description": [
-                "When enabled, adds a location for each Side Mission."
+                "When enabled, adds a location for each Side Mission.",
+                "NOTE: Some of these may have to be checked off out of logic if you progress through the story too much!"
             ],
             "type": "Toggle",
             "default": false,
             "group": "Location Options"
-        },
-        "side_missions_forced": {
-            "description": [
-                "When enabled, Side Missions will be required before you are able to progress through the main story.",
-                "If disabled, will put the side missions at the end before the final boss as that's when you can jump freely through time.",
-                "Does nothing if 'side_missions' is disabled."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Logic Options"
         },
         "costumes": {
             "description": [
@@ -105,70 +97,6 @@
             "type": "Toggle",
             "default": false,
             "group": "Item Options"
-        },
-        "DLC_preorder": {
-            "description": [
-                "When enabled, will include everything from the 'Pre-Order Bonus Pack'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_costumepack": {
-            "description": [
-                "When enabled, will include everything from the 'Costume Pack'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_costume_publicsafety": {
-            "description": [
-                "When enabled, will include everything from the 'Costume Public Safety Suit & Special Supplies Set'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_costume_digimon": {
-            "description": [
-                "When enabled, will include everything from the 'Costume Digimon Costume Set'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_outerdungeons": {
-            "description": [
-                "When enabled, will include everything from the 'Outer Dungeons the Halls of EXP, GOLD, MATERIALS'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_alternate_dimension": {
-            "description": [
-                "When enabled, will include everything from the 'Episode Pack 1: Alternate Dimension'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_gaku_ran": {
-            "description": [
-                "When enabled, will include everything from the 'Episode Pack 2: Gaku-Ran'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
-        },
-        "DLC_anti_paradox": {
-            "description": [
-                "When enabled, will include everything from the 'Episode Pack 3: Anti-Paradox'."
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "DLC Options"
         },
         "digi_eggs": {
             "description": [
@@ -219,7 +147,7 @@
         "equip_attacks": {
             "description": [
                 "When enabled, adds one of each item equipment called 'Attack' into the Multiworld.",
-                "Thos items that adds status effects to basic attacks",
+                "Those items which adds status effects to basic attacks",
                 "These are considered as useful items."
             ],
             "type": "Toggle",
@@ -248,7 +176,8 @@
         "digimon_cards": {
             "description": [
                 "When enabled, adds one of each Digimon Card into the multiworld.",
-                "These are considered as filler items."
+                "These are considered as filler items.",
+                "NOTE: These increases the item count by A LOT."
             ],
             "type": "Toggle",
             "default": false,
@@ -274,7 +203,7 @@
         },
         "trophies": {
             "description": [
-                "When enabled, adds one of each item called Trophy' into the Multiworld.",
+                "When enabled, adds one of each item called 'Trophy' into the Multiworld.",
                 "These are considered as filler items."
             ],
             "type": "Toggle",
@@ -300,6 +229,21 @@
             "default": false,
             "group": "Item Options"
         },
+        "starter_choice": {
+            "type": "Choice",
+            "description": [
+                "If using the Field Guide option, it is recommended to pick which starter you begin with here as to align the logic for what is accessible!",
+                "But if you want to use another Digimon as starter for whatever reason, feel free to do so as well! The logic will then assume you can reach these elsewhere."
+            ],
+            "values": {
+                "none": 0,
+                "patamon": 1,
+                "demidevimon": 2,
+                "gomamon": 3
+            },
+            "default": 0,
+            "group": "Logic Options"
+        },
         "time_jump": {
             "description": [
                 "When enabled, will allow you to time travel freely.",
@@ -319,6 +263,110 @@
             "type": "Toggle",
             "default": false,
             "group": "Location Options"
+        },
+        "personalities": {
+            "description": [
+                "When enabled, adds one of each Personality as an item in the Multiworld.",
+                "These are considered as progression items as they may be required to access some digimon if the Field Guide is enabled."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "digimon_data": {
+            "description": [
+                "When enabled, adds an item for each Digimon called 'Digimon Data' in the Multiworld.",
+                "These are considered as progression items and will restrict the access to specific digimon before you have received these items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "digimon_mods": {
+            "description": [
+                "When enabled, adds an item for each generation of Digimon called 'Rookie Mod', 'Mega Mod', 'Ultimate Mod' and so forth into the Multiworld.",
+                "These are considered as progression items and will restrict the access to specific generations of digimon before you have received these items.",
+                "NOTE: There is no item for the two In-Training Generations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "digimon_files": {
+            "description": [
+                "When enabled, adds an item for each type of Digimon called 'Android File', 'Evil King File', 'Deity File' and so forth into the Multiworld.",
+                "These are considered as progression items and will restrict the access to specific types of digimon before you have received these items.",
+                "NOTE: All the various Ancient Something Digimon just require an 'Ancient File' instead of having multiple unique named items.",
+                "NOTE: Any 'No Data' type Digimon does not have a file."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "digimon_folders": {
+            "description": [
+                "When enabled, adds an item for each attribute of a Digimon called 'Data Folder', 'Virus Folder', 'Vaccine Folder' and so forth into the Multiworld.",
+                "These are considered as progression items and will restrict the access to specific attributes of digimon before you have received these items.",
+                "NOTE: 'No Data' Digimon does not have a folder of their own."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Additional Items"
+        },
+        "dlc_sidemissions": {
+            "description": [
+                "When enabled, will enable the Side Missions included in the DLC they're from as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "dlc_giftdigimon": {
+            "description": [
+                "When enabled, will allow you to access any gift digimon as soon as they're received.",
+                "NOTE: Only matters for logic reasons. If this is disabled, you'll have to evolve into them."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "DLC Options"
+        },
+        "digivolve_no_agentrank": {
+            "description": [
+                "When enabled, will ignore Agent Ranks when making sure certain digimon are in logic.",
+                "For those wishing to experience the manual on NG+."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Logic Options"
+        },
+        "outer_dungeons": {
+            "description": [
+                "When enabled, adds a location for each Outer Dungeon to be completed.",
+                "NOTE: This does not include any DLC Outer Dungeons."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "main_access": {
+            "type": "Choice",
+            "description": [
+                "Decide how far this playthrough shall go.",
+                "If 'Main Missions' are disabled, this will just be a guideline for how much of the game is accessible rather than the end location.",
+                "Titamon: Defeating Titamon before being transported to the Digital World is the final location.",
+                "8 Years: Being Transported 8 years into the future is the final location.",
+                "ZombiePlutomon: Defeating ZombiePlutomon is the final location.",
+                "Chronomon: Defeating Chronomon is the final location.",
+                "NOTE: These locations are progressive, if you pick a later option, all earlier options will also be included."
+            ],
+            "values": {
+                "titamon": 0,
+                "8years": 1,
+                "zombieplutomon": 2,
+                "chronomon": 3
+            },
+            "default": 0,
+            "group": "Goal Options"
         }
     }
 }

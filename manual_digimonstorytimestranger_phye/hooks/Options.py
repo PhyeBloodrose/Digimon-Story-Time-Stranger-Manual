@@ -1,4 +1,4 @@
-# Object classes from AP that represent different types of options that you can create
+﻿# Object classes from AP that represent different types of options that you can create
 from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
@@ -25,15 +25,17 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
+from Options import OptionSet
+
+class EnabledDLC(OptionSet):
+    """Select which DLC you wish to be enabled. \n Any New Digimon will be enabled by default, but side missions and other items can be enabled/disabled with their respective options."""  # Description of the yaml option in the template
+    display_name = "Enabled DLC"                             # Name of the option in the spoiler
+    valid_keys = ["Pre-Order Bonus", "Alternate Dimension", "GAKU−RAN", "Anti-ParadoX", "Outer Dungeons", "Costume Public Safety Suit Set", "Costume Digimon Set", "Costume Chosen Children Set", "Costume Swimwear Set"]                      
+    default = frozenset(valid_keys)
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["enabled_DLCs"] = EnabledDLC
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

@@ -5,15 +5,28 @@
         "connects_to": [
             "Main Missions",
             "Forgotten Rails",
-            "Time Jump"
+            "Time Jump",
+            "Patamon",
+            "Demidevimon",
+            "Gomamon",
+            "Agumon (Black)",
+            "Gabumon (Black)"
         ],
+        "exit_requires": {
+            "Patamon": "{YamlCompare(starter_choice == 1)}",
+            "Demidevimon": "{YamlCompare(starter_choice == 2)}",
+            "Gomamon": "{YamlCompare(starter_choice == 3)}",
+            "Forgotten Rails": "{YamlDisabled(time_jump)}",
+            "Agumon (Black)": "{YamlEnabled(dlc_giftdigimon)}",
+            "Gabumon (Black)": "{YamlEnabled(dlc_giftdigimon)}"
+        },
         "requires": ""
     },
     "Main Missions": {
         "connects_to": [
             "MM_01"
         ],
-        "requires": ""
+        "requires": "{YamlDisabled(time_jump)}"
     },
     "MM_01": {
         "connects_to": [
@@ -23,59 +36,34 @@
     },
     "Forgotten Rails": {
         "connects_to": [
-            "MM_01"
+            "Giant Pit",
+            "Koromon",
+            "Impmon",
+            "Gotsumon",
+            "Monodramon"
         ],
         "requires": ""
     },
-    "Kuramon": {
+    "Giant Pit": {
         "connects_to": [
-            "Digivolve_Pagumon",
-            "Digivolve_Tsumemon"
+            "Tokyo Metropolitan Government Building"
         ],
         "requires": ""
     },
-    "Digivolve_Pagumon": {
+    "Tokyo Metropolitan Government Building": {
         "connects_to": [
-            "Pagumon"
-        ],
-        "requires": "|Agent Rank:1|"
-    },
-    "Digivolve_Tsumemon": {
-        "connects_to": [
-            "Tsumemon"
-        ],
-        "requires": "|Agent Rank:1|"
-    },
-    "Choromon": {
-        "connects_to": [
-            "Digivolve_Kapurimon"
-        ],
-        "requires": ""
-    },
-    "Digivolve_Kapurimon": {
-        "connects_to": [
-            "Kapurimon"
-        ],
-        "requires": "|Agent Rank:1|"
-    },
-    "Dodomon": {
-        "connects_to": [
-            "Digivolve_Wanyamon",
-            "Digivolve_Dorimon"
-        ],
-        "requires": ""
-    },
-    "Digivolve_Wanyamon": {
-        "connects_to": [
+            "Botamon",
+            "Dracomon",
+            "Gazimon",
+            "Gotsumon",
+            "Impmon",
+            "Kotemon",
+            "Punimon",
+            "Tentomon",
+            "ToyAgumon",
             "Wanyamon"
         ],
-        "requires": "|Agent Rank:1|"
-    },
-    "Digivolve_Dorimon": {
-        "connects_to": [
-            "Dorimon"
-        ],
-        "requires": "|Agent Rank:1|"
+        "requires": ""
     },
     "World Theater": {
         "connects_to": [
@@ -102,5 +90,98 @@
             "Digital World: Cosmic Terminal (Present Day)"
         ],
         "requires": "{YamlEnabled(time_jump)}"
+    },
+    "Higashi-Shinjuku: Back Alley (8 Years Ago)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Central Town (8 Years Ago)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Factorial Town (8 Years Ago)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Abyss Beach (8 Years Ago)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Gear Forest Village (8 Years Ago)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Guardian Palace (8 Years Ago)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Higashi-Shinjuku: Back Alley (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Rebellion Village (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Central Town (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Factorial Town (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Guardian Palace (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Abyss Beach (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Gear Forest Village (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Dark Crevasse (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Digital World: Cosmic Terminal (Present Day)": {
+        "connects_to": [],
+        "requires": ""
+    },
+    "Kuramon": {
+        "connects_to": [
+            "Pagumon",
+            "Tsumemon"
+        ],
+        "exit_requires": {
+            "Pagumon": "|Agent Rank 1|",
+            "Tsumemon": "|Agent Rank 1|"
+        },
+        "requires": "{OptOne(|Kuramon Data|)}"
+    },
+    "Agumon (Black)": {
+        "connects_to": [
+            "Pagumon",
+            "Tsumemon"
+        ],
+        "exit_requires": {
+            "Pagumon": "|Agent Rank 1|",
+            "Tsumemon": "|Agent Rank 1|"
+        },
+        "requires": "|DLC Pre-Order| AND {OptOne(|Agumon (Black) Data|)}"
+    },
+    "Gabumon (Black)": {
+        "connects_to": [
+            "Pagumon",
+            "Tsumemon"
+        ],
+        "exit_requires": {
+            "Pagumon": "|Agent Rank 1|",
+            "Tsumemon": "|Agent Rank 1|"
+        },
+        "requires": "|DLC Pre-Order| AND {OptOne(|Gabumon (Black) Data|)}"
     }
 }

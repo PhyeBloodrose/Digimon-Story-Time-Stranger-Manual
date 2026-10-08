@@ -1,10 +1,43 @@
-from typing import Optional, Any
+﻿from typing import Optional, Any
 from BaseClasses import MultiWorld
 
 
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
+    from ..Helpers import get_option_value 
+    dlc = get_option_value(multiworld, player, "enabled_DLCs")
+
+    if category_name == "DLC_S1":
+        return "Alternate Dimension" in dlc or "GAKU−RAN" in dlc or "Anti-ParadoX" in dlc
+
+    if category_name == "DLC_PO":
+        return "Pre-Order Bonus" in dlc
+
+    if category_name == "DLC_AD":
+        return "Alternate Dimension" in dlc
+
+    if category_name == "DLC_G-R":
+        return "GAKU−RAN" in dlc
+
+    if category_name == "DLC_APX":
+        return "Anti-ParadoX" in dlc
+
+    if category_name == "DLC_OD":
+        return "Outer Dungeons" in dlc
+
+    if category_name == "DLC_C_Public":
+        return "Costume Public Safety Suit Set" in dlc
+
+    if category_name == "DLC_C_Digimon":
+        return "Costume Digimon Set" in dlc
+
+    if category_name == "DLC_C_Chosen":
+        return "Costume Chosen Children Set" in dlc
+
+    if category_name == "DLC_C_Swimwear":
+        return "Costume Swimwear Set" in dlc
+
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled

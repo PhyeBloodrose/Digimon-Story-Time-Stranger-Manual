@@ -60,7 +60,11 @@
         "yaml_option": [ "agent_skills" ]
     },
     "Main Missions": {
-        "yaml_option": [ "main_missions" ]
+        "yaml_option": [ "main_missions", "!time_jump" ]
+    },
+    "MainBoss": {
+        "yaml_option": [ "main_missions", "!time_jump" ],
+        "hidden": true
     },
     "Attachment Skills": {
         "yaml_option": [ "skill_discs" ]
@@ -68,5 +72,50 @@
     "chests": {
         "yaml_option": [ "treasure_chests" ],
         "hidden": true
+    },
+    "Personalities": {
+        "yaml_option": [ "personalities" ]
+    },
+    "DLC_PO": {
+        "hidden": true
+    },
+    "DLC_AD": {
+        "hidden": true
+    },
+    "DLC_G-R": {
+        "hidden": true
+    },
+    "DLC_APX": {
+        "hidden": true
+    },
+    "DLC_S1": {
+        "hidden": true
+    },
+    "DLC_OD": {
+        "hidden": true
+    },
+    "DLC_C_Public": {
+        "hidden": true
+    },
+    "DLC_C_Digimon": {
+        "hidden": true
+    },
+    "DLC_C_Chosen": {
+        "hidden": true
+    },
+    "DLC_C_Swimwear": {
+        "hidden": true
+    },
+    "Digimon - Data": {
+        "yaml_option": [ "digimon_data" ]
+    },
+    "Digimon - Mods": {
+        "yaml_option": [ "digimon_mods" ]
+    },
+    "Digimon - Files": {
+        "yaml_option": [ "digimon_files" ]
+    },
+    "Digimon - Folders": {
+        "yaml_option": [ "digimon_folders" ]
     }
 }

@@ -70,6 +70,18 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    from ..Helpers import get_option_value
+    starter_choice = get_option_value(multiworld, player, "starter_choice")
+    digimon_data = is_option_enabled(multiworld, player, "digimon_data")
+
+    if digimon_data:
+        if starter_choice == 1
+           item_config["Patamon's Data"] = {"progression": 0}
+        if starter_choice == 2
+           item_config["Demidevimon's Data"] = {"progression": 0}
+        if starter_choice == 3
+           item_config["Gomamon's Data"] = {"progression": 0}
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
