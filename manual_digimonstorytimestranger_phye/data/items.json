@@ -8741,7 +8741,7 @@
             "useful": true
         },
         {
-            "count": 1,
+            "count": 3,
             "name": "Strategic CP Application",
             "category": [
                 "Agent Skills",
@@ -8824,15 +8824,6 @@
         {
             "count": 1,
             "name": "Body Boost: Ultimate",
-            "category": [
-                "Agent Skills",
-                "Agent Skills - Bonds of Loyalty"
-            ],
-            "useful": true
-        },
-        {
-            "count": 1,
-            "name": "Strategic CP Application",
             "category": [
                 "Agent Skills",
                 "Agent Skills - Bonds of Loyalty"

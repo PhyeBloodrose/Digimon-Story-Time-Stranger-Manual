@@ -30,7 +30,7 @@ from Options import OptionSet
 class EnabledDLC(OptionSet):
     """Select which DLC you wish to be enabled. \n Any New Digimon will be enabled by default, but side missions and other items can be enabled/disabled with their respective options."""  # Description of the yaml option in the template
     display_name = "Enabled DLC"                             # Name of the option in the spoiler
-    valid_keys = ["Pre-Order Bonus", "Alternate Dimension", "GAKU−RAN", "Anti-ParadoX", "Outer Dungeons", "Costume Public Safety Suit Set", "Costume Digimon Set", "Costume Chosen Children Set", "Costume Swimwear Set"]                      
+    valid_keys = ["Pre-Order Bonus", "Alternate Dimension", "GAKU−RAN", "Anti-ParadoX", "Halls of Stuff", "Costume Public Safety Suit Set", "Costume Digimon Set", "Costume Chosen Children Set", "Costume Swimwear Set"]                      
     default = frozenset(valid_keys)
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
@@ -53,6 +53,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
+    groups['DLC Options'] += [EnabledDLC]
     return groups
 
 def after_option_groups_created(groups: list[OptionGroup]) -> list[OptionGroup]:

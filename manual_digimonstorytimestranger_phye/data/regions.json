@@ -157,31 +157,1351 @@
             "Tsumemon"
         ],
         "exit_requires": {
-            "Pagumon": "|Agent Rank 1|",
-            "Tsumemon": "|Agent Rank 1|"
+            "Pagumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tsumemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
         },
-        "requires": "{OptOne(|Kuramon Data|)}"
+        "requires": "{OptOne(|Kuramon Data|)} AND {OptOne(|Unidentified File|)}"
+    },
+    "Choromon": {
+        "connects_to": [
+            "Kapurimon"
+        ],
+        "exit_requires": {
+            "Kapurimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Choromon Data|)} AND {OptOne(|Machine File|)}"
+    },
+    "Dodomon": {
+        "connects_to": [
+            "Wanyamon",
+            "Dorimon"
+        ],
+        "exit_requires": {
+            "Wanyamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dorimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Dodomon Data|)} AND {OptOne(|Slime File|)}"
+    },
+    "Pabumon": {
+        "connects_to": [
+            "Motimon",
+            "Yokomon",
+            "Tanemon"
+        ],
+        "exit_requires": {
+            "Motimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Yokomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tanemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Pabumon Data|)} AND {OptOne(|Slime File|)}"
+    },
+    "Punimon": {
+        "connects_to": [
+            "Tsunomon",
+            "Nyaromon"
+        ],
+        "exit_requires": {
+            "Tsunomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Nyaromon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Punimon Data|)} AND {OptOne(|Slime File|)}"
+    },
+    "Botamon": {
+        "connects_to": [
+            "Koromon"
+        ],
+        "exit_requires": {
+            "Koromon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Botamon Data|)} AND {OptOne(|Slime File|)}"
+    },
+    "Poyomon": {
+        "connects_to": [
+            "Bukamon",
+            "Tokomon"
+        ],
+        "exit_requires": {
+            "Bukamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tokomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Poyomon Data|)} AND {OptOne(|Slime File|)}"
+    },
+    "Kapurimon": {
+        "connects_to": [
+            "Hagurumon",
+            "Kokuwamon",
+            "ToyAgumon",
+            "Solarmon"
+        ],
+        "exit_requires": {
+            "Hagurumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kokuwamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ToyAgumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Solarmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Kapurimon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Koromon": {
+        "connects_to": [
+            "Agumon",
+            "Guilmon",
+            "Dracomon",
+            "Kotemon",
+            "Betamon",
+            "Shoutmon"
+        ],
+        "exit_requires": {
+            "Agumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Guilmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dracomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kotemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Betamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Shoutmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Koromon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Tanemon": {
+        "connects_to": [
+            "FunBeemon",
+            "Lalamon",
+            "Palmon",
+            "Mushroomon",
+            "Floramon"
+        ],
+        "exit_requires": {
+            "Pagumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lalamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Palmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Mushroomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Floramon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Tanemon Data|)} AND {OptOne(|Bulb File|)}"
+    },
+    "Tsunomon": {
+        "connects_to": [
+            "Goblimon",
+            "Veemon",
+            "Gabumon",
+            "Ryudamon",
+            "Elecmon",
+            "Zubamon"
+        ],
+        "exit_requires": {
+            "Goblimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Veemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gabumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ryudamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Elecmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Zubamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Tsunomon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Tsumemon": {
+        "connects_to": [
+            "Dracmon",
+            "Shamamon",
+            "Keramon",
+            "Agumon (Black)",
+            "Gabumon (Black)"
+        ],
+        "exit_requires": {
+            "Dracmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Shamamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Keramon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Agumon (Black)": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gabumon (Black)": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Tsumemon Data|)} AND {OptOne(|Unidentified File|)}"
+    },
+    "Tokomon": {
+        "connects_to": [
+            "Patamon",
+            "Coronamon",
+            "Terriermon",
+            "Armadillomon",
+            "Lucemon"
+        ],
+        "exit_requires": {
+            "Patamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coronamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Terriermon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Armadillomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lucemon": "|Agent Rank 5| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Tokomon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Dorimon": {
+        "connects_to": [
+            "Dorumon",
+            "Monodramon",
+            "SnowGoblimon",
+            "Lopmon"
+        ],
+        "exit_requires": {
+            "Dorumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Monodramon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "SnowGoblimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lopmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Dorimon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Nyaromon": {
+        "connects_to": [
+            "Lunamon",
+            "Kudamon",
+            "Salamon",
+            "Huckmon"
+        ],
+        "exit_requires": {
+            "Lunamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kudamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Salamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Huckmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Nyaromon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Pagumon": {
+        "connects_to": [
+            "Impmon",
+            "DemiDevimon",
+            "Gazimon",
+            "Otamamon"
+        ],
+        "exit_requires": {
+            "Impmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "DemiDevimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gazimon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Otamamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Pagumon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Yokomon": {
+        "connects_to": [
+            "Biyomon",
+            "Penmon",
+            "Falcomon",
+            "Hawkmon",
+            "Hyokomon",
+            "Muchomon"
+        ],
+        "exit_requires": {
+            "Biyomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Penmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Falcomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Hawkmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Hyokomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Muchomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Yokomon Data|)} AND {OptOne(|Bulb File|)}"
+    },
+    "Bukamon": {
+        "connects_to": [
+            "Kamemon",
+            "Crabmon",
+            "Gomamon",
+            "Gizamon",
+            "Syakomon"
+        ],
+        "exit_requires": {
+            "Kamemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Crabmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gomamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gizamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Syakomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Bukamon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Motimon": {
+        "connects_to": [
+            "Chuumon",
+            "Tentomon",
+            "Wormmon",
+            "Gotsumon"
+        ],
+        "exit_requires": {
+            "Chuumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tentomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wormmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gotsumon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Motimon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Wanyamon": {
+        "connects_to": [
+            "Gaomon",
+            "Tapirmon",
+            "Bearmon",
+            "Renamon"
+        ],
+        "exit_requires": {
+            "Gaomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tapirmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Bearmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Renamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Wanyamon Data|)} AND {OptOne(|Lesser File|)}"
+    },
+    "Agumon": {
+        "connects_to": [
+            "Raptordramon",
+            "GeoGreymon",
+            "Numemon",
+            "Greymon",
+            "Coredramon (Green)",
+            "Agumon (Bond of Bravery)"
+        ],
+        "exit_requires": {
+            "Raptordramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "GeoGreymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Numemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Greymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coredramon (Green)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Agumon (Bond of Bravery)": "|Agent Rank 8| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Agumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Reptile File|)}"
+    },
+    "Kudamon": {
+        "connects_to": [
+            "Airdramon",
+            "Reppamon",
+            "Angemon",
+            "Ginryumon",
+            "Lobomon",
+            "Sorcermon"
+        ],
+        "exit_requires": {
+            "Airdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Reppamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Angemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ginryumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lobomon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Human Light Spirit|",
+            "Sorcermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Kudamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Holy Beast File|)}"
+    },
+    "Gomamon": {
+        "connects_to": [
+            "Mojyamon",
+            "Ikkakumon",
+            "Frigimon",
+            "Hyogamon",
+            "IceDevimon"
+        ],
+        "exit_requires": {
+            "Mojyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ikkakumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Frigimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Hyogamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "IceDevimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Gomamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Sea Beast File|)}"
+    },
+    "Coronamon": {
+        "connects_to": [
+            "Firamon",
+            "Meramon",
+            "Growlmon",
+            "BaoHuckmon",
+            "Birdramon",
+            "Agunimon"
+        ],
+        "exit_requires": {
+            "Firamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Meramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Growlmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "BaoHuckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Birdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Agunimon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Human Flame Spirit|"
+        },
+        "requires": "{OptOne(|Coronamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Zubamon": {
+        "connects_to": [
+            "Musyamon",
+            "Buraimon",
+            "Tankmon",
+            "ZubaEagermon",
+            "Ankylomon",
+            "Guardromon (Gold)"
+        ],
+        "exit_requires": {
+            "Musyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Buraimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tankmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ZubaEagermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ankylomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Guardromon (Gold)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Zubamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Weapon File|)}"
+    },
+    "Solarmon": {
+        "connects_to": [
+            "Starmon",
+            "GoldNumemon",
+            "Meramon",
+            "Guardromon (Gold)"
+        ],
+        "exit_requires": {
+            "Starmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "GoldNumemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Meramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Guardromon (Gold)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Solarmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Machine File|)}"
+    },
+    "Terriermon": {
+        "connects_to": [
+            "Mojyamon",
+            "Lekismon",
+            "Gawappamon",
+            "Gargomon",
+            "Rapidmon (Armor)",
+            "Terriermon Assistant"
+        ],
+        "exit_requires": {
+            "Mojyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lekismon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gawappamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gargomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Rapidmon (Armor)": "(|Agent Rank 7| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Destiny Digi-Egg|"
+        },
+        "requires": "{OptOne(|Terriermon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Tentomon": {
+        "connects_to": [
+            "Kabuterimon",
+            "Sunflowmon",
+            "Kuwagamon",
+            "Waspmon",
+            "Snimon"
+        ],
+        "exit_requires": {
+            "Kabuterimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sunflowmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kuwagamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Waspmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Snimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Tentomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Insectoid File|)}"
+    },
+    "ToyAgumon": {
+        "connects_to": [
+            "Blimpmon",
+            "Deputymon",
+            "Raremon",
+            "Tankmon",
+            "Gargomon"
+        ],
+        "exit_requires": {
+            "Blimpmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Deputymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Raremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tankmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gargomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|ToyAgumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Puppet File|)}"
+    },
+    "Tapirmon": {
+        "connects_to": [
+            "Meramon",
+            "Garurumon",
+            "Bakemon",
+            "Unimon",
+            "Kyubimon"
+        ],
+        "exit_requires": {
+            "Meramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Garurumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Bakemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Unimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kyubimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Tapirmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Holy Beast File|)}"
+    },
+    "Hyokomon": {
+        "connects_to": [
+            "Peckmon",
+            "Birdramon",
+            "Dinohyumon",
+            "Buraimon"
+        ],
+        "exit_requires": {
+            "Peckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Birdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dinohyumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Buraimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Hyokomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Baby Bird File|)}"
+    },
+    "Biyomon": {
+        "connects_to": [
+            "Aquilamon",
+            "Birdramon",
+            "Unimon",
+            "Wizardmon"
+        ],
+        "exit_requires": {
+            "Aquilamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Birdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Unimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wizardmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Biyomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Baby Bird File|)}"
+    },
+    "Falcomon": {
+        "connects_to": [
+            "Peckmon",
+            "Ginryumon",
+            "Kiwimon"
+        ],
+        "exit_requires": {
+            "Peckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ginryumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kiwimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Falcomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Bird File|)}"
+    },
+    "Salamon": {
+        "connects_to": [
+            "Gatomon",
+            "Sangloupmon",
+            "Dobermon",
+            "Ikkakumon",
+            "Veedramon",
+            "Drimogemon"
+        ],
+        "exit_requires": {
+            "Gatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sangloupmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dobermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ikkakumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Veedramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Drimogemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Salamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Mammal File|)}"
+    },
+    "Bearmon": {
+        "connects_to": [
+            "Grizzlymon",
+            "Gaogamon",
+            "Mojyamon",
+            "Leomon",
+            "Garurumon (Black)"
+        ],
+        "exit_requires": {
+            "Grizzlymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gaogamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Mojyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Leomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Garurumon (Black)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Bearmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Penmon": {
+        "connects_to": [
+            "Peckmon",
+            "Buraimon",
+            "Kiwimon",
+            "Aquilamon"
+        ],
+        "exit_requires": {
+            "Peckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Buraimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kiwimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Aquilamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Penmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Bird File|)}"
+    },
+    "Monodramon": {
+        "connects_to": [
+            "Strikedramon",
+            "Raptordramon",
+            "Deltamon",
+            "Kurisarimon",
+            "Cyclonemon"
+        ],
+        "exit_requires": {
+            "Strikedramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Raptordramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Deltamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kurisarimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Cyclonemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Monodramon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Mini Dragon File|)}"
+    },
+    "Ryudamon": {
+        "connects_to": [
+            "Reppamon",
+            "Coelamon",
+            "Ginryumon",
+            "Greymon",
+            "Monochromon"
+        ],
+        "exit_requires": {
+            "Reppamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coelamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ginryumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Greymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Monochromon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Ryudamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Lucemon": {
+        "connects_to": [
+            "Lucemon CM"
+        ],
+        "exit_requires": {
+            "Lucemon CM": "|Agent Rank 7| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Lucemon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Angel File|)}"
+    },
+    "Elecmon": {
+        "connects_to": [
+            "Aegiomon",
+            "Seadramon",
+            "Unimon",
+            "Kuwagamon",
+            "Gekomon"
+        ],
+        "exit_requires": {
+            "Aegiomon": "|Agent Rank 9| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Seadramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Unimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kuwagamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gekomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Elecmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Mammal File|)}"
+    },
+    "Gaomon": {
+        "connects_to": [
+            "Strikedramon",
+            "Gaogamon",
+            "Leomon",
+            "Nanimon",
+            "Turuiemon"
+        ],
+        "exit_requires": {
+            "Strikedramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gaogamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Leomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Nanimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Turuiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Gaomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Crabmon": {
+        "connects_to": [
+            "Gawappamon",
+            "Octomon",
+            "Shellmon",
+            "Raremon",
+            "Snimon",
+            "Coelamon"
+        ],
+        "exit_requires": {
+            "Gawappamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Octomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Shellmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Raremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Snimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coelamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Crabmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Crustacean File|)}"
+    },
+    "Gabumon": {
+        "connects_to": [
+            "Garurumon",
+            "Ikkakumon",
+            "Drimogemon",
+            "Kyubimon",
+            "Geremon",
+            "Gabumon (Bond of Friendship)"
+        ],
+        "exit_requires": {
+            "Garurumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ikkakumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Drimogemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kyubimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Geremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gabumon (Bond of Friendship)": "|Agent Rank 8| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Gabumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Reptile File|)}"
+    },
+    "Kamemon": {
+        "connects_to": [
+            "Gawappamon",
+            "Octomon",
+            "Shellmon",
+            "ShellNumemon",
+            "Dinohyumon",
+            "Sorcermon"
+        ],
+        "exit_requires": {
+            "Gawappamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Octomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Shellmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ShellNumemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dinohyumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sorcermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Kamemon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Android File|)}"
+    },
+    "Kokuwamon": {
+        "connects_to": [
+            "Centarumon",
+            "Kuwagamon",
+            "Clockmon",
+            "Waspmon",
+            "Mekanorimon"
+        ],
+        "exit_requires": {
+            "Centarumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kuwagamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Clockmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Waspmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Mekanorimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Kokuwamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Machine File|)}"
+    },
+    "Gotsumon": {
+        "connects_to": [
+            "Starmon",
+            "Guardromon",
+            "Golemon",
+            "Monochromon",
+            "Icemon",
+            "MudFrigimon"
+        ],
+        "exit_requires": {
+            "Starmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Guardromon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Golemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Monochromon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Icemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "MudFrigimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Gotsumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Ore File|)}"
+    },
+    "Kotemon": {
+        "connects_to": [
+            "Turuiemon",
+            "Musyamon",
+            "Deputymon",
+            "Dinohyumon",
+            "Coredramon (Blue)"
+        ],
+        "exit_requires": {
+            "Turuiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Musyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Deputymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dinohyumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coredramon (Blue)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Kotemon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Reptile File|)}"
+    },
+    "Shoutmon": {
+        "connects_to": [
+            "OmniShoutmon",
+            "ZubaEagermon",
+            "Gargomon",
+            "Guardromon (Gold)"
+        ],
+        "exit_requires": {
+            "OmniShoutmon": "|Agent Rank 5| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ZubaEagermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gargomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Guardromon (Gold)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Shoutmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Mini Dragon File|)}"
+    },
+    "Dracomon": {
+        "connects_to": [
+            "Coredramon (Green)",
+            "Coredramon (Blue)",
+            "Deltamon",
+            "Veedramon",
+            "Seadramon",
+            "Tyrannomon"
+        ],
+        "exit_requires": {
+            "Coredramon (Green)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coredramon (Blue)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Deltamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Veedramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Seadramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tyrannomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Dracomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Dragon File|)}"
+    },
+    "Dorumon": {
+        "connects_to": [
+            "Raptordramon",
+            "Airdramon",
+            "Sangloupmon",
+            "ExVeemon",
+            "Drimogemon",
+            "Dorugamon"
+        ],
+        "exit_requires": {
+            "Raptordramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Airdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sangloupmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ExVeemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Drimogemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dorugamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Dorumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Patamon": {
+        "connects_to": [
+            "Angemon",
+            "Pegasusmon",
+            "Unimon",
+            "Centaurumon"
+        ],
+        "exit_requires": {
+            "Angemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Pegasusmon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Hope Digi-Egg|",
+            "Unimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Centaurumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Patamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Mammal File|)}"
+    },
+    "Huckmon": {
+        "connects_to": [
+            "Gatomon",
+            "GeoGreymon",
+            "Growlmon",
+            "BaoHuckmon",
+            "Greymon"
+        ],
+        "exit_requires": {
+            "Gatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "GeoGreymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Growlmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "BaoHuckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Greymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Huckmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Mini Dragon File|)}"
+    },
+    "Palmon": {
+        "connects_to": [
+            "Mojyamon",
+            "Vegiemon",
+            "Togemon",
+            "Woodmon",
+            "Kurisarimon",
+            "PlatinumSukamon"
+        ],
+        "exit_requires": {
+            "Mojyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Vegiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Togemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Woodmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kurisarimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "PlatinumSukamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Palmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Vegetation File|)}"
+    },
+    "Floramon": {
+        "connects_to": [
+            "Vegiemon",
+            "Togemon",
+            "Woodmon",
+            "Sunflowmon",
+            "Kiwimon"
+        ],
+        "exit_requires": {
+            "Vegiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Togemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Woodmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sunflowmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kiwimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Floramon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Vegetation File|)}"
+    },
+    "Muchomon": {
+        "connects_to": [
+            "Airdramon",
+            "Peckmon",
+            "Birdramon",
+            "Fugamon"
+        ],
+        "exit_requires": {
+            "Airdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Peckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Birdramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Fugamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Muchomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Bird File|)}"
+    },
+    "Lalamon": {
+        "connects_to": [
+            "Sunflowmon",
+            "Togemon",
+            "Deputymon",
+            "MudFrigimon",
+            "Turuiemon"
+        ],
+        "exit_requires": {
+            "Sunflowmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Togemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Deputymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "MudFrigimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Turuiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Lalamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Vegetation File|)}"
+    },
+    "Lunamon": {
+        "connects_to": [
+            "Lekismon",
+            "Garurumon",
+            "Frigimon",
+            "Hyogamon",
+            "Sorcermon",
+            "Icemon"
+        ],
+        "exit_requires": {
+            "Lekismon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Garurumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Frigimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Hyogamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sorcermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Icemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Lunamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Mammal File|)}"
+    },
+    "Renamon": {
+        "connects_to": [
+            "Lekismon",
+            "Sunflowmon",
+            "Reppamon",
+            "Kyubimon",
+            "Garurumon (Black)"
+        ],
+        "exit_requires": {
+            "Lekismon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sunflowmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Reppamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kyubimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Garurumon (Black)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Renamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Beast Man File|)}"
+    },
+    "Lopmon": {
+        "connects_to": [
+            "Grizzlymon",
+            "Minotarumon",
+            "Leomon",
+            "Turuiemon",
+            "Wendigomon",
+            "MudFrigimon"
+        ],
+        "exit_requires": {
+            "Grizzlymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Minotarumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Leomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Turuiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wendigomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "MudFrigimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Lopmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Data Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Impmon": {
+        "connects_to": [
+            "Bakemon",
+            "Wizardmon",
+            "Clockmon",
+            "Sangloupmon",
+            "Devimon",
+            "Witchmon"
+        ],
+        "exit_requires": {
+            "Bakemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wizardmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Clockmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sangloupmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Devimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Witchmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Impmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Little Devil File|)}"
+    },
+    "Otamamon": {
+        "connects_to": [
+            "Seadramon",
+            "Numemon",
+            "Gekomon",
+            "ShellNumemon",
+            "PlatinumSukamon"
+        ],
+        "exit_requires": {
+            "Seadramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Numemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gekomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ShellNumemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "PlatinumSukamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Otamamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Amphibian File|)}"
+    },
+    "Gazimon": {
+        "connects_to": [
+            "Sangloupmon",
+            "BlackGatomon",
+            "Gaogamon",
+            "Baohuckmon",
+            "Dobermon",
+            "Dorugamon"
+        ],
+        "exit_requires": {
+            "Sangloupmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "BlackGatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gaogamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Baohuckmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dobermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dorugamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Gazimon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Mammal File|)}"
+    },
+    "Gizamon": {
+        "connects_to": [
+            "Cyclonemon",
+            "Flymon",
+            "ZubaEagermon",
+            "Ankylomon",
+            "Geremon",
+            "Lanamon"
+        ],
+        "exit_requires": {
+            "Cyclonemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Flymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ZubaEagermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ankylomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Geremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lanamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Gizamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Sea Animal File|)}"
+    },
+    "Guilmon": {
+        "connects_to": [
+            "GeoGreymon",
+            "Growlmon",
+            "ExVeemon",
+            "Tyrannomon",
+            "Greymon (Blue)"
+        ],
+        "exit_requires": {
+            "GeoGreymon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Growlmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ExVeemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tyrannomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Greymon (Blue)": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Guilmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Reptile File|)}"
+    },
+    "Goblimon": {
+        "connects_to": [
+            "Golemon",
+            "Wendigomon",
+            "Deltamon",
+            "Tuskmon",
+            "Ogremon"
+        ],
+        "exit_requires": {
+            "Golemon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wendigomon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Deltamon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tuskmon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ogremon": "|Agent Rank 1| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Goblimon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Demon File|)}"
+    },
+    "Shamamon": {
+        "connects_to": [
+            "Minotarumon",
+            "Musyamon",
+            "Fugamon",
+            "Witchmon"
+        ],
+        "exit_requires": {
+            "Minotarumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Musyamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Fugamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Witchmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Shamamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Demon File|)}"
+    },
+    "Syakomon": {
+        "connects_to": [
+            "Coelamon",
+            "Shellmon",
+            "ShellNumemon",
+            "Octomon",
+            "Raremon"
+        ],
+        "exit_requires": {
+            "Coelamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Shellmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "ShellNumemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Octomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Raremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Syakomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Crustacean File|)}"
+    },
+    "SnowGoblimon": {
+        "connects_to": [
+            "Gatomon",
+            "Monochromon",
+            "Frigimon",
+            "Hyogamon",
+            "IceDevimon",
+            "Icemon"
+        ],
+        "exit_requires": {
+            "Gatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Monochromon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Frigimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Hyogamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "IceDevimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Icemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|SnowGoblimon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Demon File|)}"
+    },
+    "Chuumon": {
+        "connects_to": [
+            "BlackGatomon",
+            "Sukamon",
+            "Gatomon",
+            "Gekomon",
+            "Geremon",
+            "PlatinumSukamon"
+        ],
+        "exit_requires": {
+            "BlackGatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sukamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Gekomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Geremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "PlatinumSukamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Chuumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Beast File|)}"
+    },
+    "Dracmon": {
+        "connects_to": [
+            "Sangloupmon",
+            "Sukamon",
+            "Wizardmon",
+            "Starmon"
+        ],
+        "exit_requires": {
+            "Sangloupmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Sukamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wizardmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Starmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Dracmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Undead File|)}"
+    },
+    "Hagurumon": {
+        "connects_to": [
+            "Clockmon",
+            "Mekanorimon",
+            "Tankmon",
+            "Guardromon",
+            "Blimpmon"
+        ],
+        "exit_requires": {
+            "Clockmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Mekanorimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tankmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Guardromon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Blimpmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Hagurumon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Machine File|)}"
+    },
+    "DemiDevimon": {
+        "connects_to": [
+            "Bakemon",
+            "IceDevimon",
+            "Devimon",
+            "Ogremon",
+            "Greymon (Blue)"
+        ],
+        "exit_requires": {
+            "Bakemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "IceDevimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Devimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ogremon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Greymon (Blue)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|DemiDevimon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Little Devil File|)}"
+    },
+    "FunBeemon": {
+        "connects_to": [
+            "Waspmon",
+            "Flymon",
+            "Dokugumon",
+            "Stingmon",
+            "GoldNumemon",
+            "Kabuterimon"
+        ],
+        "exit_requires": {
+            "Waspmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Flymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dokugumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Stingmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "GoldNumemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kabuterimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|FunBeemon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Insectoid File|)}"
+    },
+    "Betamon": {
+        "connects_to": [
+            "Seadramon",
+            "Coelamon",
+            "Devimon",
+            "Numemon",
+            "Vegiemon",
+            "Tuskmon"
+        ],
+        "exit_requires": {
+            "Seadramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coelamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Devimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Numemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Vegiemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tuskmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Betamon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Amphibian File|)}"
+    },
+    "Mushroomon": {
+        "connects_to": [
+            "Sukamon",
+            "Nanimon",
+            "Woodmon",
+            "Flymon"
+        ],
+        "exit_requires": {
+            "Sukamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tapirmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Woodmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Flymon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Mushroomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Vegetation File|)}"
+    },
+    "Armadillomon": {
+        "connects_to": [
+            "Digmon",
+            "Submarimon",
+            "Golemon",
+            "Ankylomon"
+        ],
+        "exit_requires": {
+            "Digmon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Knowledge Digi-Egg|",
+            "Submarimon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Reliability Digi-Egg|",
+            "Golemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Ankylomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Armadillomon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Free Folder|)} AND {OptOne(|Mammal File|)}"
+    },
+    "Veemon": {
+        "connects_to": [
+            "ExVeemon",
+            "Veedramon",
+            "Lighdramon",
+            "Magnamon",
+            "Flamedramon"
+        ],
+        "exit_requires": {
+            "ExVeemon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Veedramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Lighdramon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Friendship Digi-Egg|",
+            "Magnamon": "(|Agent Rank 7| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Miracles Digi-Egg|",
+            "Flamedramon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Courage Digi-Egg|"
+        },
+        "requires": "{OptOne(|Veemon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Free Folder|)} AND {OptOne(|Mini Dragon File|)}"
+    },
+    "Hawkmon": {
+        "connects_to": [
+            "Firamon",
+            "Halsemon",
+            "Shurimon",
+            "Aquilamon"
+        ],
+        "exit_requires": {
+            "Firamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Halsemon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Love Digi-Egg|",
+            "Shurimon": "(|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}) AND |Sincerity Digi-Egg|",
+            "Aquilamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Hawkmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Free Folder|)} AND {OptOne(|Bird File|)}"
+    },
+    "Wormmon": {
+        "connects_to": [
+            "Stingmon",
+            "Dokugumon",
+            "Snimon"
+        ],
+        "exit_requires": {
+            "Stingmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dokugumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Snimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Wormmon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Free Folder|)} AND {OptOne(|Larva File|)}"
+    },
+    "Keramon": {
+        "connects_to": [
+            "Dokugumon",
+            "Wendigomon",
+            "Octomon",
+            "Mekanorimon",
+            "Kurisarimon"
+        ],
+        "exit_requires": {
+            "Dokugumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Wendigomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Octomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Mekanorimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Kurisarimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
+        },
+        "requires": "{OptOne(|Keramon Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Unknown Folder|)} AND {OptOne(|Unidentified File|)}"
     },
     "Agumon (Black)": {
         "connects_to": [
-            "Pagumon",
-            "Tsumemon"
+            "Strikedramon",
+            "Tuskmon",
+            "Devimon",
+            "Coredramon (Blue)",
+            "Greymon (Blue)"
         ],
         "exit_requires": {
-            "Pagumon": "|Agent Rank 1|",
-            "Tsumemon": "|Agent Rank 1|"
+            "Strikedramon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Tuskmon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Devimon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Coredramon (Blue)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Greymon (Blue)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
         },
-        "requires": "|DLC Pre-Order| AND {OptOne(|Agumon (Black) Data|)}"
+        "requires": "|DLC Pre-Order| AND {OptOne(|Agumon (Black) Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Reptile File|)}"
     },
     "Gabumon (Black)": {
         "connects_to": [
-            "Pagumon",
-            "Tsumemon"
+            "Minotarumon",
+            "BlackGatomon",
+            "Dobermon",
+            "Dorugamon",
+            "Fugamon",
+            "Garurumon (Black)"
         ],
         "exit_requires": {
-            "Pagumon": "|Agent Rank 1|",
-            "Tsumemon": "|Agent Rank 1|"
+            "Minotarumon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "BlackGatomon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dobermon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Dorugamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Fugamon": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}",
+            "Garurumon (Black)": "|Agent Rank 3| OR {YamlEnabled(digivolve_no_agentrank)}"
         },
-        "requires": "|DLC Pre-Order| AND {OptOne(|Gabumon (Black) Data|)}"
+        "requires": "|DLC Pre-Order| AND {OptOne(|Gabumon (Black) Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Virus Folder|)} AND {OptOne(|Reptile File|)}"
+    },
+    "Terriermon Assistant": {
+        "connects_to": [],
+        "requires": "{OptOne(|Terriermon Assistant Data|)} AND {OptOne(|Rookie Mod|)} AND {OptOne(|Vaccine Folder|)} AND {OptOne(|Beast File|)}"
     }
 }

@@ -75,11 +75,11 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
     digimon_data = is_option_enabled(multiworld, player, "digimon_data")
 
     if digimon_data:
-        if starter_choice == 1
+        if starter_choice == 1 :
            item_config["Patamon's Data"] = {"progression": 0}
-        if starter_choice == 2
+        if starter_choice == 2 :
            item_config["Demidevimon's Data"] = {"progression": 0}
-        if starter_choice == 3
+        if starter_choice == 3 :
            item_config["Gomamon's Data"] = {"progression": 0}
 
     return item_config

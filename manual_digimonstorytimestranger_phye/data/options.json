@@ -276,7 +276,8 @@
         "digimon_data": {
             "description": [
                 "When enabled, adds an item for each Digimon called 'Digimon Data' in the Multiworld.",
-                "These are considered as progression items and will restrict the access to specific digimon before you have received these items."
+                "These are considered as progression items and will restrict the access to specific digimon before you have received these items.",
+                "NOTE: If you pick a starter with the 'starter_choice' option, the data for the starter will not be included in the multiworld allowing you access to it at start."
             ],
             "type": "Toggle",
             "default": false,

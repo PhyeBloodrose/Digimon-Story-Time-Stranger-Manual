@@ -23,8 +23,8 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
     if category_name == "DLC_APX":
         return "Anti-ParadoX" in dlc
 
-    if category_name == "DLC_OD":
-        return "Outer Dungeons" in dlc
+    if category_name == "DLC_HOS":
+        return "Halls of Stuff" in dlc
 
     if category_name == "DLC_C_Public":
         return "Costume Public Safety Suit Set" in dlc

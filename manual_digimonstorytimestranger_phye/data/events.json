@@ -16,6 +16,13 @@
             ]
         },
         {
+            "name": "X Location",
+            "region": "X Location",
+            "category": [
+                "Locations Accessible"
+            ]
+        },
+        {
             "name": "Kuramon",
             "region": "Kuramon",
             "category": [
@@ -3375,56 +3382,142 @@
         {
             "name": "DLC Pre-Order",
             "category": [
-                "DLC_PO"
+                "DLC_PO",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC Alternate Dimension",
             "category": [
-                "DLC_AD"
+                "DLC_AD",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC GAKU-RAN",
             "category": [
-                "DLC_G-R"
+                "DLC_G-R",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC Anti-ParadoX",
             "category": [
-                "DLC_APX"
+                "DLC_APX",
+                "DLC Enabled"
             ]
         },
         {
-            "name": "DLC Outer Dungeons",
+            "name": "DLC Halls of Stuff",
             "category": [
-                "DLC_OD"
+                "DLC_HOS",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC Public Safety",
             "category": [
-                "DLC_C_Public"
+                "DLC_C_Public",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC Digimon Costume",
             "category": [
-                "DLC_C_Digimon"
+                "DLC_C_Digimon",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC Chosen Children",
             "category": [
-                "DLC_C_Chosen"
+                "DLC_C_Chosen",
+                "DLC Enabled"
             ]
         },
         {
             "name": "DLC Swimwear",
             "category": [
-                "DLC_C_Swimwear"
+                "DLC_C_Swimwear",
+                "DLC Enabled"
             ]
+        },
+        {
+            "name": "Human Light Spirit",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Human Spirit of Light|)} AND |X Location|"
+        },
+        {
+            "name": "Human Flame Spirit",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Human Spirit of Flame|)} AND |X Location|"
+        },
+        {
+            "name": "Destiny Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Destiny|)} AND |X Location|"
+        },
+        {
+            "name": "Hope Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Hope|)} AND |X Location|"
+        },
+        {
+            "name": "Knowledge Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Knowledge|)} AND |X Location|"
+        },
+        {
+            "name": "Reliability Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Reliability|)} AND |X Location|"
+        },
+        {
+            "name": "Friendship Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Friendship|)} AND |X Location|"
+        },
+        {
+            "name": "Miracles Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Miracles|)} AND |X Location|"
+        },
+        {
+            "name": "Courage Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Courage|)} AND |X Location|"
+        },
+        {
+            "name": "Love Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Love|)} AND |X Location|"
+        },
+        {
+            "name": "Sincerity Digi-Egg",
+            "category": [
+                "Evolution Conditions"
+            ],
+            "requires": "{OptOne(|Digi-Egg of Sincerity|)} AND |X Location|"
         }
     ]
 }
